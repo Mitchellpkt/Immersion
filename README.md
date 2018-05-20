@@ -3,9 +3,13 @@
 
 2018.05 - mitchellpkt@protonmail.com
 
-See Immersion application demo in GitHub root: `Immersion_Demo_NPR_Article.png`
+Immersion application demo in GitHub root: `Immersion_Demo_NPR_Article.png`
+
 
 ## Quick translation how-to:
+Video instructions: https://www.youtube.com/watch?v=T2IoYQgDoes
+
+Text version:
 -  Install FoxReplace
 -  Go to the extension's options page
 -  Click "Import from URL" and enter a link to the output file: 
