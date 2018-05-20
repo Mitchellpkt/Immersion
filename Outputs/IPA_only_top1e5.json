@@ -1736,7 +1736,7 @@
 {
 "input": "uk",
 "inputType": "wholewords",
-"output": "uk*",
+"output": "uk",
 "caseSensitive": false
 },
 {
@@ -3236,7 +3236,7 @@
 {
 "input": "login",
 "inputType": "wholewords",
-"output": "login*",
+"output": "login",
 "caseSensitive": false
 },
 {
@@ -3464,7 +3464,7 @@
 {
 "input": "ii",
 "inputType": "wholewords",
-"output": "ii*",
+"output": "ii",
 "caseSensitive": false
 },
 {
@@ -3896,7 +3896,7 @@
 {
 "input": "rss",
 "inputType": "wholewords",
-"output": "rss*",
+"output": "rss",
 "caseSensitive": false
 },
 {
@@ -4280,7 +4280,7 @@
 {
 "input": "faq",
 "inputType": "wholewords",
-"output": "faq*",
+"output": "faq",
 "caseSensitive": false
 },
 {
@@ -4706,7 +4706,7 @@
 {
 "input": "st",
 "inputType": "wholewords",
-"output": "st*",
+"output": "st",
 "caseSensitive": false
 },
 {
@@ -4736,7 +4736,7 @@
 {
 "input": "url",
 "inputType": "wholewords",
-"output": "url*",
+"output": "url",
 "caseSensitive": false
 },
 {
@@ -4862,7 +4862,7 @@
 {
 "input": "apr",
 "inputType": "wholewords",
-"output": "apr*",
+"output": "apr",
 "caseSensitive": false
 },
 {
@@ -5270,7 +5270,7 @@
 {
 "input": "jul",
 "inputType": "wholewords",
-"output": "jul*",
+"output": "jul",
 "caseSensitive": false
 },
 {
@@ -5792,7 +5792,7 @@
 {
 "input": "html",
 "inputType": "wholewords",
-"output": "html*",
+"output": "html",
 "caseSensitive": false
 },
 {
@@ -6086,7 +6086,7 @@
 {
 "input": "pics",
 "inputType": "wholewords",
-"output": "pics*",
+"output": "pics",
 "caseSensitive": false
 },
 {
@@ -6356,7 +6356,7 @@
 {
 "input": "ny",
 "inputType": "wholewords",
-"output": "ny*",
+"output": "ny",
 "caseSensitive": false
 },
 {
@@ -6410,7 +6410,7 @@
 {
 "input": "eur",
 "inputType": "wholewords",
-"output": "eur*",
+"output": "eur",
 "caseSensitive": false
 },
 {
@@ -6440,7 +6440,7 @@
 {
 "input": "pdf",
 "inputType": "wholewords",
-"output": "pdf*",
+"output": "pdf",
 "caseSensitive": false
 },
 {
@@ -6578,7 +6578,7 @@
 {
 "input": "usr",
 "inputType": "wholewords",
-"output": "usr*",
+"output": "usr",
 "caseSensitive": false
 },
 {
@@ -6674,7 +6674,7 @@
 {
 "input": "homepage",
 "inputType": "wholewords",
-"output": "homepage*",
+"output": "homepage",
 "caseSensitive": false
 },
 {
@@ -7064,7 +7064,7 @@
 {
 "input": "fri",
 "inputType": "wholewords",
-"output": "fri*",
+"output": "fri",
 "caseSensitive": false
 },
 {
@@ -7328,7 +7328,7 @@
 {
 "input": "cnet",
 "inputType": "wholewords",
-"output": "cnet*",
+"output": "cnet",
 "caseSensitive": false
 },
 {
@@ -7346,7 +7346,7 @@
 {
 "input": "hp",
 "inputType": "wholewords",
-"output": "hp*",
+"output": "hp",
 "caseSensitive": false
 },
 {
@@ -7490,7 +7490,7 @@
 {
 "input": "eg",
 "inputType": "wholewords",
-"output": "eg*",
+"output": "eg",
 "caseSensitive": false
 },
 {
@@ -7826,7 +7826,7 @@
 {
 "input": "paypal",
 "inputType": "wholewords",
-"output": "paypal*",
+"output": "paypal",
 "caseSensitive": false
 },
 {
@@ -7874,7 +7874,7 @@
 {
 "input": "thu",
 "inputType": "wholewords",
-"output": "thu*",
+"output": "thu",
 "caseSensitive": false
 },
 {
@@ -8078,7 +8078,7 @@
 {
 "input": "tx",
 "inputType": "wholewords",
-"output": "tx*",
+"output": "tx",
 "caseSensitive": false
 },
 {
@@ -8210,7 +8210,7 @@
 {
 "input": "ie",
 "inputType": "wholewords",
-"output": "ie*",
+"output": "ie",
 "caseSensitive": false
 },
 {
@@ -8492,13 +8492,13 @@
 {
 "input": "iii",
 "inputType": "wholewords",
-"output": "iii*",
+"output": "iii",
 "caseSensitive": false
 },
 {
 "input": "gmt",
 "inputType": "wholewords",
-"output": "gmt*",
+"output": "gmt",
 "caseSensitive": false
 },
 {
@@ -8732,7 +8732,7 @@
 {
 "input": "md",
 "inputType": "wholewords",
-"output": "md*",
+"output": "md",
 "caseSensitive": false
 },
 {
@@ -8756,7 +8756,7 @@
 {
 "input": "fl",
 "inputType": "wholewords",
-"output": "fl*",
+"output": "fl",
 "caseSensitive": false
 },
 {
@@ -8780,7 +8780,7 @@
 {
 "input": "mb",
 "inputType": "wholewords",
-"output": "mb*",
+"output": "mb",
 "caseSensitive": false
 },
 {
@@ -9020,7 +9020,7 @@
 {
 "input": "prev",
 "inputType": "wholewords",
-"output": "prev*",
+"output": "prev",
 "caseSensitive": false
 },
 {
@@ -9122,7 +9122,7 @@
 {
 "input": "int",
 "inputType": "wholewords",
-"output": "int*",
+"output": "int",
 "caseSensitive": false
 },
 {
@@ -9266,7 +9266,7 @@
 {
 "input": "mm",
 "inputType": "wholewords",
-"output": "mm*",
+"output": "mm",
 "caseSensitive": false
 },
 {
@@ -9470,7 +9470,7 @@
 {
 "input": "usb",
 "inputType": "wholewords",
-"output": "usb*",
+"output": "usb",
 "caseSensitive": false
 },
 {
@@ -9524,7 +9524,7 @@
 {
 "input": "php",
 "inputType": "wholewords",
-"output": "php*",
+"output": "php",
 "caseSensitive": false
 },
 {
@@ -9542,7 +9542,7 @@
 {
 "input": "phentermine",
 "inputType": "wholewords",
-"output": "phentermine*",
+"output": "phentermine",
 "caseSensitive": false
 },
 {
@@ -9680,7 +9680,7 @@
 {
 "input": "msn",
 "inputType": "wholewords",
-"output": "msn*",
+"output": "msn",
 "caseSensitive": false
 },
 {
@@ -9890,7 +9890,7 @@
 {
 "input": "isbn",
 "inputType": "wholewords",
-"output": "isbn*",
+"output": "isbn",
 "caseSensitive": false
 },
 {
@@ -10004,7 +10004,7 @@
 {
 "input": "az",
 "inputType": "wholewords",
-"output": "az*",
+"output": "az",
 "caseSensitive": false
 },
 {
@@ -10178,7 +10178,7 @@
 {
 "input": "pst",
 "inputType": "wholewords",
-"output": "pst*",
+"output": "pst",
 "caseSensitive": false
 },
 {
@@ -10694,7 +10694,7 @@
 {
 "input": "kb",
 "inputType": "wholewords",
-"output": "kb*",
+"output": "kb",
 "caseSensitive": false
 },
 {
@@ -10880,7 +10880,7 @@
 {
 "input": "vol",
 "inputType": "wholewords",
-"output": "vol*",
+"output": "vol",
 "caseSensitive": false
 },
 {
@@ -10904,7 +10904,7 @@
 {
 "input": "pp",
 "inputType": "wholewords",
-"output": "pp*",
+"output": "pp",
 "caseSensitive": false
 },
 {
@@ -11468,7 +11468,7 @@
 {
 "input": "ringtones",
 "inputType": "wholewords",
-"output": "ringtones*",
+"output": "ringtones",
 "caseSensitive": false
 },
 {
@@ -11552,7 +11552,7 @@
 {
 "input": "xbox",
 "inputType": "wholewords",
-"output": "xbox*",
+"output": "xbox",
 "caseSensitive": false
 },
 {
@@ -11576,7 +11576,7 @@
 {
 "input": "www",
 "inputType": "wholewords",
-"output": "www*",
+"output": "www",
 "caseSensitive": false
 },
 {
@@ -11720,7 +11720,7 @@
 {
 "input": "nc",
 "inputType": "wholewords",
-"output": "nc*",
+"output": "nc",
 "caseSensitive": false
 },
 {
@@ -11756,7 +11756,7 @@
 {
 "input": "llc",
 "inputType": "wholewords",
-"output": "llc*",
+"output": "llc",
 "caseSensitive": false
 },
 {
@@ -11906,7 +11906,7 @@
 {
 "input": "va",
 "inputType": "wholewords",
-"output": "va*",
+"output": "va",
 "caseSensitive": false
 },
 {
@@ -11990,13 +11990,13 @@
 {
 "input": "ibm",
 "inputType": "wholewords",
-"output": "ibm*",
+"output": "ibm",
 "caseSensitive": false
 },
 {
 "input": "rd",
 "inputType": "wholewords",
-"output": "rd*",
+"output": "rd",
 "caseSensitive": false
 },
 {
@@ -12008,7 +12008,7 @@
 {
 "input": "sc",
 "inputType": "wholewords",
-"output": "sc*",
+"output": "sc",
 "caseSensitive": false
 },
 {
@@ -12290,7 +12290,7 @@
 {
 "input": "username",
 "inputType": "wholewords",
-"output": "username*",
+"output": "username",
 "caseSensitive": false
 },
 {
@@ -12320,7 +12320,7 @@
 {
 "input": "classifieds",
 "inputType": "wholewords",
-"output": "classifieds*",
+"output": "classifieds",
 "caseSensitive": false
 },
 {
@@ -12458,7 +12458,7 @@
 {
 "input": "km",
 "inputType": "wholewords",
-"output": "km*",
+"output": "km",
 "caseSensitive": false
 },
 {
@@ -12638,7 +12638,7 @@
 {
 "input": "ft",
 "inputType": "wholewords",
-"output": "ft*",
+"output": "ft",
 "caseSensitive": false
 },
 {
@@ -13160,7 +13160,7 @@
 {
 "input": "xp",
 "inputType": "wholewords",
-"output": "xp*",
+"output": "xp",
 "caseSensitive": false
 },
 {
@@ -13376,7 +13376,7 @@
 {
 "input": "sitemap",
 "inputType": "wholewords",
-"output": "sitemap*",
+"output": "sitemap",
 "caseSensitive": false
 },
 {
@@ -13496,7 +13496,7 @@
 {
 "input": "cvs",
 "inputType": "wholewords",
-"output": "cvs*",
+"output": "cvs",
 "caseSensitive": false
 },
 {
@@ -13556,7 +13556,7 @@
 {
 "input": "eu",
 "inputType": "wholewords",
-"output": "eu*",
+"output": "eu",
 "caseSensitive": false
 },
 {
@@ -13712,7 +13712,7 @@
 {
 "input": "lcd",
 "inputType": "wholewords",
-"output": "lcd*",
+"output": "lcd",
 "caseSensitive": false
 },
 {
@@ -13802,7 +13802,7 @@
 {
 "input": "dj",
 "inputType": "wholewords",
-"output": "dj*",
+"output": "dj",
 "caseSensitive": false
 },
 {
@@ -13928,13 +13928,13 @@
 {
 "input": "cm",
 "inputType": "wholewords",
-"output": "cm*",
+"output": "cm",
 "caseSensitive": false
 },
 {
 "input": "wi",
 "inputType": "wholewords",
-"output": "wi*",
+"output": "wi",
 "caseSensitive": false
 },
 {
@@ -14360,7 +14360,7 @@
 {
 "input": "nj",
 "inputType": "wholewords",
-"output": "nj*",
+"output": "nj",
 "caseSensitive": false
 },
 {
@@ -14372,7 +14372,7 @@
 {
 "input": "hr",
 "inputType": "wholewords",
-"output": "hr*",
+"output": "hr",
 "caseSensitive": false
 },
 {
@@ -14444,7 +14444,7 @@
 {
 "input": "iv",
 "inputType": "wholewords",
-"output": "iv*",
+"output": "iv",
 "caseSensitive": false
 },
 {
@@ -14468,7 +14468,7 @@
 {
 "input": "rw",
 "inputType": "wholewords",
-"output": "rw*",
+"output": "rw",
 "caseSensitive": false
 },
 {
@@ -14636,7 +14636,7 @@
 {
 "input": "vhs",
 "inputType": "wholewords",
-"output": "vhs*",
+"output": "vhs",
 "caseSensitive": false
 },
 {
@@ -14684,7 +14684,7 @@
 {
 "input": "pubmed",
 "inputType": "wholewords",
-"output": "pubmed*",
+"output": "pubmed",
 "caseSensitive": false
 },
 {
@@ -15086,7 +15086,7 @@
 {
 "input": "tripadvisor",
 "inputType": "wholewords",
-"output": "tripadvisor*",
+"output": "tripadvisor",
 "caseSensitive": false
 },
 {
@@ -15128,7 +15128,7 @@
 {
 "input": "anime",
 "inputType": "wholewords",
-"output": "anime*",
+"output": "anime",
 "caseSensitive": false
 },
 {
@@ -15182,7 +15182,7 @@
 {
 "input": "nt",
 "inputType": "wholewords",
-"output": "nt*",
+"output": "nt",
 "caseSensitive": false
 },
 {
@@ -15362,7 +15362,7 @@
 {
 "input": "gb",
 "inputType": "wholewords",
-"output": "gb*",
+"output": "gb",
 "caseSensitive": false
 },
 {
@@ -15380,7 +15380,7 @@
 {
 "input": "bc",
 "inputType": "wholewords",
-"output": "bc*",
+"output": "bc",
 "caseSensitive": false
 },
 {
@@ -15422,7 +15422,7 @@
 {
 "input": "pr",
 "inputType": "wholewords",
-"output": "pr*",
+"output": "pr",
 "caseSensitive": false
 },
 {
@@ -15458,7 +15458,7 @@
 {
 "input": "fr",
 "inputType": "wholewords",
-"output": "fr*",
+"output": "fr",
 "caseSensitive": false
 },
 {
@@ -15548,7 +15548,7 @@
 {
 "input": "var",
 "inputType": "wholewords",
-"output": "var*",
+"output": "var",
 "caseSensitive": false
 },
 {
@@ -16088,7 +16088,7 @@
 {
 "input": "usd",
 "inputType": "wholewords",
-"output": "usd*",
+"output": "usd",
 "caseSensitive": false
 },
 {
@@ -16100,7 +16100,7 @@
 {
 "input": "mg",
 "inputType": "wholewords",
-"output": "mg*",
+"output": "mg",
 "caseSensitive": false
 },
 {
@@ -16598,7 +16598,7 @@
 {
 "input": "ch",
 "inputType": "wholewords",
-"output": "ch*",
+"output": "ch",
 "caseSensitive": false
 },
 {
@@ -16640,7 +16640,7 @@
 {
 "input": "sd",
 "inputType": "wholewords",
-"output": "sd*",
+"output": "sd",
 "caseSensitive": false
 },
 {
@@ -16730,7 +16730,7 @@
 {
 "input": "devel",
 "inputType": "wholewords",
-"output": "devel*",
+"output": "devel",
 "caseSensitive": false
 },
 {
@@ -16832,7 +16832,7 @@
 {
 "input": "rs",
 "inputType": "wholewords",
-"output": "rs*",
+"output": "rs",
 "caseSensitive": false
 },
 {
@@ -17048,7 +17048,7 @@
 {
 "input": "avg",
 "inputType": "wholewords",
-"output": "avg*",
+"output": "avg",
 "caseSensitive": false
 },
 {
@@ -17144,7 +17144,7 @@
 {
 "input": "permalink",
 "inputType": "wholewords",
-"output": "permalink*",
+"output": "permalink",
 "caseSensitive": false
 },
 {
@@ -17276,7 +17276,7 @@
 {
 "input": "src",
 "inputType": "wholewords",
-"output": "src*",
+"output": "src",
 "caseSensitive": false
 },
 {
@@ -17306,7 +17306,7 @@
 {
 "input": "faqs",
 "inputType": "wholewords",
-"output": "faqs*",
+"output": "faqs",
 "caseSensitive": false
 },
 {
@@ -17354,7 +17354,7 @@
 {
 "input": "trackback",
 "inputType": "wholewords",
-"output": "trackback*",
+"output": "trackback",
 "caseSensitive": false
 },
 {
@@ -17438,7 +17438,7 @@
 {
 "input": "hiv",
 "inputType": "wholewords",
-"output": "hiv*",
+"output": "hiv",
 "caseSensitive": false
 },
 {
@@ -17522,7 +17522,7 @@
 {
 "input": "pda",
 "inputType": "wholewords",
-"output": "pda*",
+"output": "pda",
 "caseSensitive": false
 },
 {
@@ -17546,7 +17546,7 @@
 {
 "input": "dsl",
 "inputType": "wholewords",
-"output": "dsl*",
+"output": "dsl",
 "caseSensitive": false
 },
 {
@@ -17576,7 +17576,7 @@
 {
 "input": "zum",
 "inputType": "wholewords",
-"output": "zum*",
+"output": "zum",
 "caseSensitive": false
 },
 {
@@ -17702,7 +17702,7 @@
 {
 "input": "sql",
 "inputType": "wholewords",
-"output": "sql*",
+"output": "sql",
 "caseSensitive": false
 },
 {
@@ -17798,7 +17798,7 @@
 {
 "input": "ss",
 "inputType": "wholewords",
-"output": "ss*",
+"output": "ss",
 "caseSensitive": false
 },
 {
@@ -17870,7 +17870,7 @@
 {
 "input": "nm",
 "inputType": "wholewords",
-"output": "nm*",
+"output": "nm",
 "caseSensitive": false
 },
 {
@@ -17882,7 +17882,7 @@
 {
 "input": "mn",
 "inputType": "wholewords",
-"output": "mn*",
+"output": "mn",
 "caseSensitive": false
 },
 {
@@ -17894,7 +17894,7 @@
 {
 "input": "nd",
 "inputType": "wholewords",
-"output": "nd*",
+"output": "nd",
 "caseSensitive": false
 },
 {
@@ -17978,7 +17978,7 @@
 {
 "input": "acc",
 "inputType": "wholewords",
-"output": "acc*",
+"output": "acc",
 "caseSensitive": false
 },
 {
@@ -18086,7 +18086,7 @@
 {
 "input": "tn",
 "inputType": "wholewords",
-"output": "tn*",
+"output": "tn",
 "caseSensitive": false
 },
 {
@@ -18440,7 +18440,7 @@
 {
 "input": "ce",
 "inputType": "wholewords",
-"output": "ce*",
+"output": "ce",
 "caseSensitive": false
 },
 {
@@ -18836,7 +18836,7 @@
 {
 "input": "utc",
 "inputType": "wholewords",
-"output": "utc*",
+"output": "utc",
 "caseSensitive": false
 },
 {
@@ -18896,7 +18896,7 @@
 {
 "input": "verzeichnis",
 "inputType": "wholewords",
-"output": "verzeichnis*",
+"output": "verzeichnis",
 "caseSensitive": false
 },
 {
@@ -19640,7 +19640,7 @@
 {
 "input": "tm",
 "inputType": "wholewords",
-"output": "tm*",
+"output": "tm",
 "caseSensitive": false
 },
 {
@@ -19712,7 +19712,7 @@
 {
 "input": "sp",
 "inputType": "wholewords",
-"output": "sp*",
+"output": "sp",
 "caseSensitive": false
 },
 {
@@ -19736,7 +19736,7 @@
 {
 "input": "weblog",
 "inputType": "wholewords",
-"output": "weblog*",
+"output": "weblog",
 "caseSensitive": false
 },
 {
@@ -19844,7 +19844,7 @@
 {
 "input": "nh",
 "inputType": "wholewords",
-"output": "nh*",
+"output": "nh",
 "caseSensitive": false
 },
 {
@@ -19940,7 +19940,7 @@
 {
 "input": "mysql",
 "inputType": "wholewords",
-"output": "mysql*",
+"output": "mysql",
 "caseSensitive": false
 },
 {
@@ -20162,7 +20162,7 @@
 {
 "input": "pdt",
 "inputType": "wholewords",
-"output": "pdt*",
+"output": "pdt",
 "caseSensitive": false
 },
 {
@@ -20528,7 +20528,7 @@
 {
 "input": "db",
 "inputType": "wholewords",
-"output": "db*",
+"output": "db",
 "caseSensitive": false
 },
 {
@@ -20660,7 +20660,7 @@
 {
 "input": "pt",
 "inputType": "wholewords",
-"output": "pt*",
+"output": "pt",
 "caseSensitive": false
 },
 {
@@ -20696,7 +20696,7 @@
 {
 "input": "epinions",
 "inputType": "wholewords",
-"output": "epinions*",
+"output": "epinions",
 "caseSensitive": false
 },
 {
@@ -20756,7 +20756,7 @@
 {
 "input": "psp",
 "inputType": "wholewords",
-"output": "psp*",
+"output": "psp",
 "caseSensitive": false
 },
 {
@@ -20828,7 +20828,7 @@
 {
 "input": "ds",
 "inputType": "wholewords",
-"output": "ds*",
+"output": "ds",
 "caseSensitive": false
 },
 {
@@ -20888,7 +20888,7 @@
 {
 "input": "ea",
 "inputType": "wholewords",
-"output": "ea*",
+"output": "ea",
 "caseSensitive": false
 },
 {
@@ -20948,7 +20948,7 @@
 {
 "input": "lg",
 "inputType": "wholewords",
-"output": "lg*",
+"output": "lg",
 "caseSensitive": false
 },
 {
@@ -21278,7 +21278,7 @@
 {
 "input": "nw",
 "inputType": "wholewords",
-"output": "nw*",
+"output": "nw",
 "caseSensitive": false
 },
 {
@@ -21302,7 +21302,7 @@
 {
 "input": "ff",
 "inputType": "wholewords",
-"output": "ff*",
+"output": "ff",
 "caseSensitive": false
 },
 {
@@ -21368,7 +21368,7 @@
 {
 "input": "iso",
 "inputType": "wholewords",
-"output": "iso*",
+"output": "iso",
 "caseSensitive": false
 },
 {
@@ -21422,7 +21422,7 @@
 {
 "input": "misc",
 "inputType": "wholewords",
-"output": "misc*",
+"output": "misc",
 "caseSensitive": false
 },
 {
@@ -21500,7 +21500,7 @@
 {
 "input": "holdem",
 "inputType": "wholewords",
-"output": "holdem*",
+"output": "holdem",
 "caseSensitive": false
 },
 {
@@ -21638,7 +21638,7 @@
 {
 "input": "ps",
 "inputType": "wholewords",
-"output": "ps*",
+"output": "ps",
 "caseSensitive": false
 },
 {
@@ -21740,7 +21740,7 @@
 {
 "input": "const",
 "inputType": "wholewords",
-"output": "const*",
+"output": "const",
 "caseSensitive": false
 },
 {
@@ -21818,13 +21818,13 @@
 {
 "input": "ky",
 "inputType": "wholewords",
-"output": "ky*",
+"output": "ky",
 "caseSensitive": false
 },
 {
 "input": "dont",
 "inputType": "wholewords",
-"output": "dont*",
+"output": "dont",
 "caseSensitive": false
 },
 {
@@ -21938,7 +21938,7 @@
 {
 "input": "br",
 "inputType": "wholewords",
-"output": "br*",
+"output": "br",
 "caseSensitive": false
 },
 {
@@ -22070,7 +22070,7 @@
 {
 "input": "ml",
 "inputType": "wholewords",
-"output": "ml*",
+"output": "ml",
 "caseSensitive": false
 },
 {
@@ -22154,7 +22154,7 @@
 {
 "input": "favourites",
 "inputType": "wholewords",
-"output": "favourites*",
+"output": "favourites",
 "caseSensitive": false
 },
 {
@@ -22370,7 +22370,7 @@
 {
 "input": "cs",
 "inputType": "wholewords",
-"output": "cs*",
+"output": "cs",
 "caseSensitive": false
 },
 {
@@ -22472,7 +22472,7 @@
 {
 "input": "voip",
 "inputType": "wholewords",
-"output": "voip*",
+"output": "voip",
 "caseSensitive": false
 },
 {
@@ -22592,7 +22592,7 @@
 {
 "input": "sf",
 "inputType": "wholewords",
-"output": "sf*",
+"output": "sf",
 "caseSensitive": false
 },
 {
@@ -22628,7 +22628,7 @@
 {
 "input": "kg",
 "inputType": "wholewords",
-"output": "kg*",
+"output": "kg",
 "caseSensitive": false
 },
 {
@@ -22694,7 +22694,7 @@
 {
 "input": "ut",
 "inputType": "wholewords",
-"output": "ut*",
+"output": "ut",
 "caseSensitive": false
 },
 {
@@ -22766,7 +22766,7 @@
 {
 "input": "templates",
 "inputType": "wholewords",
-"output": "templates*",
+"output": "templates",
 "caseSensitive": false
 },
 {
@@ -22838,13 +22838,13 @@
 {
 "input": "womens",
 "inputType": "wholewords",
-"output": "womens*",
+"output": "womens",
 "caseSensitive": false
 },
 {
 "input": "css",
 "inputType": "wholewords",
-"output": "css*",
+"output": "css",
 "caseSensitive": false
 },
 {
@@ -23024,7 +23024,7 @@
 {
 "input": "qty",
 "inputType": "wholewords",
-"output": "qty*",
+"output": "qty",
 "caseSensitive": false
 },
 {
@@ -23090,7 +23090,7 @@
 {
 "input": "uniprotkb",
 "inputType": "wholewords",
-"output": "uniprotkb*",
+"output": "uniprotkb",
 "caseSensitive": false
 },
 {
@@ -23660,7 +23660,7 @@
 {
 "input": "edt",
 "inputType": "wholewords",
-"output": "edt*",
+"output": "edt",
 "caseSensitive": false
 },
 {
@@ -23696,7 +23696,7 @@
 {
 "input": "pmid",
 "inputType": "wholewords",
-"output": "pmid*",
+"output": "pmid",
 "caseSensitive": false
 },
 {
@@ -23780,7 +23780,7 @@
 {
 "input": "cr",
 "inputType": "wholewords",
-"output": "cr*",
+"output": "cr",
 "caseSensitive": false
 },
 {
@@ -23828,7 +23828,7 @@
 {
 "input": "pg",
 "inputType": "wholewords",
-"output": "pg*",
+"output": "pg",
 "caseSensitive": false
 },
 {
@@ -23846,7 +23846,7 @@
 {
 "input": "programmes",
 "inputType": "wholewords",
-"output": "programmes*",
+"output": "programmes",
 "caseSensitive": false
 },
 {
@@ -23882,7 +23882,7 @@
 {
 "input": "jewellery",
 "inputType": "wholewords",
-"output": "jewellery*",
+"output": "jewellery",
 "caseSensitive": false
 },
 {
@@ -23936,7 +23936,7 @@
 {
 "input": "medline",
 "inputType": "wholewords",
-"output": "medline*",
+"output": "medline",
 "caseSensitive": false
 },
 {
@@ -24038,7 +24038,7 @@
 {
 "input": "ks",
 "inputType": "wholewords",
-"output": "ks*",
+"output": "ks",
 "caseSensitive": false
 },
 {
@@ -24122,7 +24122,7 @@
 {
 "input": "ftp",
 "inputType": "wholewords",
-"output": "ftp*",
+"output": "ftp",
 "caseSensitive": false
 },
 {
@@ -24200,7 +24200,7 @@
 {
 "input": "sw",
 "inputType": "wholewords",
-"output": "sw*",
+"output": "sw",
 "caseSensitive": false
 },
 {
@@ -24254,7 +24254,7 @@
 {
 "input": "collectables",
 "inputType": "wholewords",
-"output": "collectables*",
+"output": "collectables",
 "caseSensitive": false
 },
 {
@@ -24326,7 +24326,7 @@
 {
 "input": "hd",
 "inputType": "wholewords",
-"output": "hd*",
+"output": "hd",
 "caseSensitive": false
 },
 {
@@ -24422,7 +24422,7 @@
 {
 "input": "livecam",
 "inputType": "wholewords",
-"output": "livecam*",
+"output": "livecam",
 "caseSensitive": false
 },
 {
@@ -24578,7 +24578,7 @@
 {
 "input": "jr",
 "inputType": "wholewords",
-"output": "jr*",
+"output": "jr",
 "caseSensitive": false
 },
 {
@@ -24842,13 +24842,13 @@
 {
 "input": "thongs",
 "inputType": "wholewords",
-"output": "thongs*",
+"output": "thongs",
 "caseSensitive": false
 },
 {
 "input": "gcc",
 "inputType": "wholewords",
-"output": "gcc*",
+"output": "gcc",
 "caseSensitive": false
 },
 {
@@ -24878,7 +24878,7 @@
 {
 "input": "ringtone",
 "inputType": "wholewords",
-"output": "ringtone*",
+"output": "ringtone",
 "caseSensitive": false
 },
 {
@@ -25184,7 +25184,7 @@
 {
 "input": "nv",
 "inputType": "wholewords",
-"output": "nv*",
+"output": "nv",
 "caseSensitive": false
 },
 {
@@ -25316,7 +25316,7 @@
 {
 "input": "exp",
 "inputType": "wholewords",
-"output": "exp*",
+"output": "exp",
 "caseSensitive": false
 },
 {
@@ -25340,7 +25340,7 @@
 {
 "input": "debian",
 "inputType": "wholewords",
-"output": "debian*",
+"output": "debian",
 "caseSensitive": false
 },
 {
@@ -25442,7 +25442,7 @@
 {
 "input": "cpu",
 "inputType": "wholewords",
-"output": "cpu*",
+"output": "cpu",
 "caseSensitive": false
 },
 {
@@ -25628,7 +25628,7 @@
 {
 "input": "nr",
 "inputType": "wholewords",
-"output": "nr*",
+"output": "nr",
 "caseSensitive": false
 },
 {
@@ -25748,7 +25748,7 @@
 {
 "input": "mp",
 "inputType": "wholewords",
-"output": "mp*",
+"output": "mp",
 "caseSensitive": false
 },
 {
@@ -26024,7 +26024,7 @@
 {
 "input": "def",
 "inputType": "wholewords",
-"output": "def*",
+"output": "def",
 "caseSensitive": false
 },
 {
@@ -26102,7 +26102,7 @@
 {
 "input": "nl",
 "inputType": "wholewords",
-"output": "nl*",
+"output": "nl",
 "caseSensitive": false
 },
 {
@@ -26204,7 +26204,7 @@
 {
 "input": "postposted",
 "inputType": "wholewords",
-"output": "postposted*",
+"output": "postposted",
 "caseSensitive": false
 },
 {
@@ -26294,7 +26294,7 @@
 {
 "input": "epa",
 "inputType": "wholewords",
-"output": "epa*",
+"output": "epa",
 "caseSensitive": false
 },
 {
@@ -26348,7 +26348,7 @@
 {
 "input": "tr",
 "inputType": "wholewords",
-"output": "tr*",
+"output": "tr",
 "caseSensitive": false
 },
 {
@@ -26360,13 +26360,13 @@
 {
 "input": "cialis",
 "inputType": "wholewords",
-"output": "cialis*",
+"output": "cialis",
 "caseSensitive": false
 },
 {
 "input": "bb",
 "inputType": "wholewords",
-"output": "bb*",
+"output": "bb",
 "caseSensitive": false
 },
 {
@@ -26540,7 +26540,7 @@
 {
 "input": "nz",
 "inputType": "wholewords",
-"output": "nz*",
+"output": "nz",
 "caseSensitive": false
 },
 {
@@ -26720,7 +26720,7 @@
 {
 "input": "hist",
 "inputType": "wholewords",
-"output": "hist*",
+"output": "hist",
 "caseSensitive": false
 },
 {
@@ -26786,7 +26786,7 @@
 {
 "input": "firefox",
 "inputType": "wholewords",
-"output": "firefox*",
+"output": "firefox",
 "caseSensitive": false
 },
 {
@@ -26906,7 +26906,7 @@
 {
 "input": "vbulletin",
 "inputType": "wholewords",
-"output": "vbulletin*",
+"output": "vbulletin",
 "caseSensitive": false
 },
 {
@@ -27122,7 +27122,7 @@
 {
 "input": "tion",
 "inputType": "wholewords",
-"output": "tion*",
+"output": "tion",
 "caseSensitive": false
 },
 {
@@ -27224,7 +27224,7 @@
 {
 "input": "citysearch",
 "inputType": "wholewords",
-"output": "citysearch*",
+"output": "citysearch",
 "caseSensitive": false
 },
 {
@@ -27278,7 +27278,7 @@
 {
 "input": "nsw",
 "inputType": "wholewords",
-"output": "nsw*",
+"output": "nsw",
 "caseSensitive": false
 },
 {
@@ -27296,7 +27296,7 @@
 {
 "input": "pci",
 "inputType": "wholewords",
-"output": "pci*",
+"output": "pci",
 "caseSensitive": false
 },
 {
@@ -27332,7 +27332,7 @@
 {
 "input": "guestbook",
 "inputType": "wholewords",
-"output": "guestbook*",
+"output": "guestbook",
 "caseSensitive": false
 },
 {
@@ -27548,7 +27548,7 @@
 {
 "input": "rc",
 "inputType": "wholewords",
-"output": "rc*",
+"output": "rc",
 "caseSensitive": false
 },
 {
@@ -27698,13 +27698,13 @@
 {
 "input": "cst",
 "inputType": "wholewords",
-"output": "cst*",
+"output": "cst",
 "caseSensitive": false
 },
 {
 "input": "http",
 "inputType": "wholewords",
-"output": "http*",
+"output": "http",
 "caseSensitive": false
 },
 {
@@ -27722,7 +27722,7 @@
 {
 "input": "twiki",
 "inputType": "wholewords",
-"output": "twiki*",
+"output": "twiki",
 "caseSensitive": false
 },
 {
@@ -27830,7 +27830,7 @@
 {
 "input": "ec",
 "inputType": "wholewords",
-"output": "ec*",
+"output": "ec",
 "caseSensitive": false
 },
 {
@@ -28076,7 +28076,7 @@
 {
 "input": "rm",
 "inputType": "wholewords",
-"output": "rm*",
+"output": "rm",
 "caseSensitive": false
 },
 {
@@ -28130,7 +28130,7 @@
 {
 "input": "pdas",
 "inputType": "wholewords",
-"output": "pdas*",
+"output": "pdas",
 "caseSensitive": false
 },
 {
@@ -28214,7 +28214,7 @@
 {
 "input": "api",
 "inputType": "wholewords",
-"output": "api*",
+"output": "api",
 "caseSensitive": false
 },
 {
@@ -28310,13 +28310,13 @@
 {
 "input": "config",
 "inputType": "wholewords",
-"output": "config*",
+"output": "config",
 "caseSensitive": false
 },
 {
 "input": "cf",
 "inputType": "wholewords",
-"output": "cf*",
+"output": "cf",
 "caseSensitive": false
 },
 {
@@ -28340,7 +28340,7 @@
 {
 "input": "vt",
 "inputType": "wholewords",
-"output": "vt*",
+"output": "vt",
 "caseSensitive": false
 },
 {
@@ -28400,7 +28400,7 @@
 {
 "input": "urw",
 "inputType": "wholewords",
-"output": "urw*",
+"output": "urw",
 "caseSensitive": false
 },
 {
@@ -28460,7 +28460,7 @@
 {
 "input": "wishlist",
 "inputType": "wholewords",
-"output": "wishlist*",
+"output": "wishlist",
 "caseSensitive": false
 },
 {
@@ -28628,7 +28628,7 @@
 {
 "input": "foto",
 "inputType": "wholewords",
-"output": "foto*",
+"output": "foto",
 "caseSensitive": false
 },
 {
@@ -28736,7 +28736,7 @@
 {
 "input": "gm",
 "inputType": "wholewords",
-"output": "gm*",
+"output": "gm",
 "caseSensitive": false
 },
 {
@@ -28772,7 +28772,7 @@
 {
 "input": "ri",
 "inputType": "wholewords",
-"output": "ri*",
+"output": "ri",
 "caseSensitive": false
 },
 {
@@ -28850,7 +28850,7 @@
 {
 "input": "rt",
 "inputType": "wholewords",
-"output": "rt*",
+"output": "rt",
 "caseSensitive": false
 },
 {
@@ -28868,7 +28868,7 @@
 {
 "input": "cp",
 "inputType": "wholewords",
-"output": "cp*",
+"output": "cp",
 "caseSensitive": false
 },
 {
@@ -29060,7 +29060,7 @@
 {
 "input": "dd",
 "inputType": "wholewords",
-"output": "dd*",
+"output": "dd",
 "caseSensitive": false
 },
 {
@@ -29174,7 +29174,7 @@
 {
 "input": "pl",
 "inputType": "wholewords",
-"output": "pl*",
+"output": "pl",
 "caseSensitive": false
 },
 {
@@ -29276,13 +29276,13 @@
 {
 "input": "crm",
 "inputType": "wholewords",
-"output": "crm*",
+"output": "crm",
 "caseSensitive": false
 },
 {
 "input": "rf",
 "inputType": "wholewords",
-"output": "rf*",
+"output": "rf",
 "caseSensitive": false
 },
 {
@@ -29342,7 +29342,7 @@
 {
 "input": "ak",
 "inputType": "wholewords",
-"output": "ak*",
+"output": "ak",
 "caseSensitive": false
 },
 {
@@ -29426,7 +29426,7 @@
 {
 "input": "td",
 "inputType": "wholewords",
-"output": "td*",
+"output": "td",
 "caseSensitive": false
 },
 {
@@ -29450,7 +29450,7 @@
 {
 "input": "sb",
 "inputType": "wholewords",
-"output": "sb*",
+"output": "sb",
 "caseSensitive": false
 },
 {
@@ -29498,7 +29498,7 @@
 {
 "input": "sm",
 "inputType": "wholewords",
-"output": "sm*",
+"output": "sm",
 "caseSensitive": false
 },
 {
@@ -29582,7 +29582,7 @@
 {
 "input": "usc",
 "inputType": "wholewords",
-"output": "usc*",
+"output": "usc",
 "caseSensitive": false
 },
 {
@@ -29600,7 +29600,7 @@
 {
 "input": "trembl",
 "inputType": "wholewords",
-"output": "trembl*",
+"output": "trembl",
 "caseSensitive": false
 },
 {
@@ -29648,7 +29648,7 @@
 {
 "input": "wv",
 "inputType": "wholewords",
-"output": "wv*",
+"output": "wv",
 "caseSensitive": false
 },
 {
@@ -29720,7 +29720,7 @@
 {
 "input": "ns",
 "inputType": "wholewords",
-"output": "ns*",
+"output": "ns",
 "caseSensitive": false
 },
 {
@@ -29936,7 +29936,7 @@
 {
 "input": "bs",
 "inputType": "wholewords",
-"output": "bs*",
+"output": "bs",
 "caseSensitive": false
 },
 {
@@ -29966,7 +29966,7 @@
 {
 "input": "hrs",
 "inputType": "wholewords",
-"output": "hrs*",
+"output": "hrs",
 "caseSensitive": false
 },
 {
@@ -30158,7 +30158,7 @@
 {
 "input": "showtimes",
 "inputType": "wholewords",
-"output": "showtimes*",
+"output": "showtimes",
 "caseSensitive": false
 },
 {
@@ -30302,7 +30302,7 @@
 {
 "input": "img",
 "inputType": "wholewords",
-"output": "img*",
+"output": "img",
 "caseSensitive": false
 },
 {
@@ -30464,7 +30464,7 @@
 {
 "input": "webcam",
 "inputType": "wholewords",
-"output": "webcam*",
+"output": "webcam",
 "caseSensitive": false
 },
 {
@@ -30482,7 +30482,7 @@
 {
 "input": "nutten",
 "inputType": "wholewords",
-"output": "nutten*",
+"output": "nutten",
 "caseSensitive": false
 },
 {
@@ -30608,7 +30608,7 @@
 {
 "input": "mhz",
 "inputType": "wholewords",
-"output": "mhz*",
+"output": "mhz",
 "caseSensitive": false
 },
 {
@@ -30776,7 +30776,7 @@
 {
 "input": "gi",
 "inputType": "wholewords",
-"output": "gi*",
+"output": "gi",
 "caseSensitive": false
 },
 {
@@ -31022,7 +31022,7 @@
 {
 "input": "ll",
 "inputType": "wholewords",
-"output": "ll*",
+"output": "ll",
 "caseSensitive": false
 },
 {
@@ -31076,7 +31076,7 @@
 {
 "input": "cl",
 "inputType": "wholewords",
-"output": "cl*",
+"output": "cl",
 "caseSensitive": false
 },
 {
@@ -31112,7 +31112,7 @@
 {
 "input": "ieee",
 "inputType": "wholewords",
-"output": "ieee*",
+"output": "ieee",
 "caseSensitive": false
 },
 {
@@ -31172,13 +31172,13 @@
 {
 "input": "gt",
 "inputType": "wholewords",
-"output": "gt*",
+"output": "gt",
 "caseSensitive": false
 },
 {
 "input": "sh",
 "inputType": "wholewords",
-"output": "sh*",
+"output": "sh",
 "caseSensitive": false
 },
 {
@@ -31220,7 +31220,7 @@
 {
 "input": "nyc",
 "inputType": "wholewords",
-"output": "nyc*",
+"output": "nyc",
 "caseSensitive": false
 },
 {
@@ -31424,7 +31424,7 @@
 {
 "input": "hs",
 "inputType": "wholewords",
-"output": "hs*",
+"output": "hs",
 "caseSensitive": false
 },
 {
@@ -31502,13 +31502,13 @@
 {
 "input": "rv",
 "inputType": "wholewords",
-"output": "rv*",
+"output": "rv",
 "caseSensitive": false
 },
 {
 "input": "struct",
 "inputType": "wholewords",
-"output": "struct*",
+"output": "struct",
 "caseSensitive": false
 },
 {
@@ -31778,7 +31778,7 @@
 {
 "input": "yr",
 "inputType": "wholewords",
-"output": "yr*",
+"output": "yr",
 "caseSensitive": false
 },
 {
@@ -31886,7 +31886,7 @@
 {
 "input": "eminem",
 "inputType": "wholewords",
-"output": "eminem*",
+"output": "eminem",
 "caseSensitive": false
 },
 {
@@ -32018,7 +32018,7 @@
 {
 "input": "ic",
 "inputType": "wholewords",
-"output": "ic*",
+"output": "ic",
 "caseSensitive": false
 },
 {
@@ -32114,7 +32114,7 @@
 {
 "input": "plugin",
 "inputType": "wholewords",
-"output": "plugin*",
+"output": "plugin",
 "caseSensitive": false
 },
 {
@@ -32150,7 +32150,7 @@
 {
 "input": "latinas",
 "inputType": "wholewords",
-"output": "latinas*",
+"output": "latinas",
 "caseSensitive": false
 },
 {
@@ -32228,7 +32228,7 @@
 {
 "input": "dealtime",
 "inputType": "wholewords",
-"output": "dealtime*",
+"output": "dealtime",
 "caseSensitive": false
 },
 {
@@ -32258,7 +32258,7 @@
 {
 "input": "zus",
 "inputType": "wholewords",
-"output": "zus*",
+"output": "zus",
 "caseSensitive": false
 },
 {
@@ -32306,7 +32306,7 @@
 {
 "input": "tramadol",
 "inputType": "wholewords",
-"output": "tramadol*",
+"output": "tramadol",
 "caseSensitive": false
 },
 {
@@ -32402,7 +32402,7 @@
 {
 "input": "mx",
 "inputType": "wholewords",
-"output": "mx*",
+"output": "mx",
 "caseSensitive": false
 },
 {
@@ -32414,7 +32414,7 @@
 {
 "input": "gr",
 "inputType": "wholewords",
-"output": "gr*",
+"output": "gr",
 "caseSensitive": false
 },
 {
@@ -32426,7 +32426,7 @@
 {
 "input": "xhtml",
 "inputType": "wholewords",
-"output": "xhtml*",
+"output": "xhtml",
 "caseSensitive": false
 },
 {
@@ -32474,7 +32474,7 @@
 {
 "input": "ext",
 "inputType": "wholewords",
-"output": "ext*",
+"output": "ext",
 "caseSensitive": false
 },
 {
@@ -32702,7 +32702,7 @@
 {
 "input": "ge",
 "inputType": "wholewords",
-"output": "ge*",
+"output": "ge",
 "caseSensitive": false
 },
 {
@@ -32732,7 +32732,7 @@
 {
 "input": "ncaa",
 "inputType": "wholewords",
-"output": "ncaa*",
+"output": "ncaa",
 "caseSensitive": false
 },
 {
@@ -32798,7 +32798,7 @@
 {
 "input": "pe",
 "inputType": "wholewords",
-"output": "pe*",
+"output": "pe",
 "caseSensitive": false
 },
 {
@@ -32864,7 +32864,7 @@
 {
 "input": "tt",
 "inputType": "wholewords",
-"output": "tt*",
+"output": "tt",
 "caseSensitive": false
 },
 {
@@ -33122,7 +33122,7 @@
 {
 "input": "xl",
 "inputType": "wholewords",
-"output": "xl*",
+"output": "xl",
 "caseSensitive": false
 },
 {
@@ -33248,7 +33248,7 @@
 {
 "input": "tcp",
 "inputType": "wholewords",
-"output": "tcp*",
+"output": "tcp",
 "caseSensitive": false
 },
 {
@@ -33290,13 +33290,13 @@
 {
 "input": "dv",
 "inputType": "wholewords",
-"output": "dv*",
+"output": "dv",
 "caseSensitive": false
 },
 {
 "input": "dir",
 "inputType": "wholewords",
-"output": "dir*",
+"output": "dir",
 "caseSensitive": false
 },
 {
@@ -33500,7 +33500,7 @@
 {
 "input": "fotos",
 "inputType": "wholewords",
-"output": "fotos*",
+"output": "fotos",
 "caseSensitive": false
 },
 {
@@ -33608,7 +33608,7 @@
 {
 "input": "fy",
 "inputType": "wholewords",
-"output": "fy*",
+"output": "fy",
 "caseSensitive": false
 },
 {
@@ -33638,7 +33638,7 @@
 {
 "input": "ghz",
 "inputType": "wholewords",
-"output": "ghz*",
+"output": "ghz",
 "caseSensitive": false
 },
 {
@@ -33692,13 +33692,13 @@
 {
 "input": "gamecube",
 "inputType": "wholewords",
-"output": "gamecube*",
+"output": "gamecube",
 "caseSensitive": false
 },
 {
 "input": "rr",
 "inputType": "wholewords",
-"output": "rr*",
+"output": "rr",
 "caseSensitive": false
 },
 {
@@ -33722,7 +33722,7 @@
 {
 "input": "titten",
 "inputType": "wholewords",
-"output": "titten*",
+"output": "titten",
 "caseSensitive": false
 },
 {
@@ -33764,7 +33764,7 @@
 {
 "input": "ef",
 "inputType": "wholewords",
-"output": "ef*",
+"output": "ef",
 "caseSensitive": false
 },
 {
@@ -33884,7 +33884,7 @@
 {
 "input": "ep",
 "inputType": "wholewords",
-"output": "ep*",
+"output": "ep",
 "caseSensitive": false
 },
 {
@@ -33926,7 +33926,7 @@
 {
 "input": "gbp",
 "inputType": "wholewords",
-"output": "gbp*",
+"output": "gbp",
 "caseSensitive": false
 },
 {
@@ -33968,7 +33968,7 @@
 {
 "input": "slideshow",
 "inputType": "wholewords",
-"output": "slideshow*",
+"output": "slideshow",
 "caseSensitive": false
 },
 {
@@ -34022,7 +34022,7 @@
 {
 "input": "jelsoft",
 "inputType": "wholewords",
-"output": "jelsoft*",
+"output": "jelsoft",
 "caseSensitive": false
 },
 {
@@ -34100,7 +34100,7 @@
 {
 "input": "archived",
 "inputType": "wholewords",
-"output": "archived*",
+"output": "archived",
 "caseSensitive": false
 },
 {
@@ -34112,7 +34112,7 @@
 {
 "input": "jp",
 "inputType": "wholewords",
-"output": "jp*",
+"output": "jp",
 "caseSensitive": false
 },
 {
@@ -34214,7 +34214,7 @@
 {
 "input": "af",
 "inputType": "wholewords",
-"output": "af*",
+"output": "af",
 "caseSensitive": false
 },
 {
@@ -34256,7 +34256,7 @@
 {
 "input": "rfc",
 "inputType": "wholewords",
-"output": "rfc*",
+"output": "rfc",
 "caseSensitive": false
 },
 {
@@ -34298,7 +34298,7 @@
 {
 "input": "sl",
 "inputType": "wholewords",
-"output": "sl*",
+"output": "sl",
 "caseSensitive": false
 },
 {
@@ -34316,7 +34316,7 @@
 {
 "input": "isp",
 "inputType": "wholewords",
-"output": "isp*",
+"output": "isp",
 "caseSensitive": false
 },
 {
@@ -34454,13 +34454,13 @@
 {
 "input": "hb",
 "inputType": "wholewords",
-"output": "hb*",
+"output": "hb",
 "caseSensitive": false
 },
 {
 "input": "jpg",
 "inputType": "wholewords",
-"output": "jpg*",
+"output": "jpg",
 "caseSensitive": false
 },
 {
@@ -34496,7 +34496,7 @@
 {
 "input": "tc",
 "inputType": "wholewords",
-"output": "tc*",
+"output": "tc",
 "caseSensitive": false
 },
 {
@@ -34622,7 +34622,7 @@
 {
 "input": "mins",
 "inputType": "wholewords",
-"output": "mins*",
+"output": "mins",
 "caseSensitive": false
 },
 {
@@ -34652,7 +34652,7 @@
 {
 "input": "ssl",
 "inputType": "wholewords",
-"output": "ssl*",
+"output": "ssl",
 "caseSensitive": false
 },
 {
@@ -34724,7 +34724,7 @@
 {
 "input": "mlb",
 "inputType": "wholewords",
-"output": "mlb*",
+"output": "mlb",
 "caseSensitive": false
 },
 {
@@ -34808,7 +34808,7 @@
 {
 "input": "gp",
 "inputType": "wholewords",
-"output": "gp*",
+"output": "gp",
 "caseSensitive": false
 },
 {
@@ -34940,7 +34940,7 @@
 {
 "input": "oem",
 "inputType": "wholewords",
-"output": "oem*",
+"output": "oem",
 "caseSensitive": false
 },
 {
@@ -34964,13 +34964,13 @@
 {
 "input": "ir",
 "inputType": "wholewords",
-"output": "ir*",
+"output": "ir",
 "caseSensitive": false
 },
 {
 "input": "zdnet",
 "inputType": "wholewords",
-"output": "zdnet*",
+"output": "zdnet",
 "caseSensitive": false
 },
 {
@@ -35036,7 +35036,7 @@
 {
 "input": "ecommerce",
 "inputType": "wholewords",
-"output": "ecommerce*",
+"output": "ecommerce",
 "caseSensitive": false
 },
 {
@@ -35366,7 +35366,7 @@
 {
 "input": "mozilla",
 "inputType": "wholewords",
-"output": "mozilla*",
+"output": "mozilla",
 "caseSensitive": false
 },
 {
@@ -35408,7 +35408,7 @@
 {
 "input": "oclc",
 "inputType": "wholewords",
-"output": "oclc*",
+"output": "oclc",
 "caseSensitive": false
 },
 {
@@ -35456,7 +35456,7 @@
 {
 "input": "plc",
 "inputType": "wholewords",
-"output": "plc*",
+"output": "plc",
 "caseSensitive": false
 },
 {
@@ -35498,7 +35498,7 @@
 {
 "input": "msg",
 "inputType": "wholewords",
-"output": "msg*",
+"output": "msg",
 "caseSensitive": false
 },
 {
@@ -35654,13 +35654,13 @@
 {
 "input": "cv",
 "inputType": "wholewords",
-"output": "cv*",
+"output": "cv",
 "caseSensitive": false
 },
 {
 "input": "cb",
 "inputType": "wholewords",
-"output": "cb*",
+"output": "cb",
 "caseSensitive": false
 },
 {
@@ -35702,7 +35702,7 @@
 {
 "input": "espn",
 "inputType": "wholewords",
-"output": "espn*",
+"output": "espn",
 "caseSensitive": false
 },
 {
@@ -35714,7 +35714,7 @@
 {
 "input": "untitled",
 "inputType": "wholewords",
-"output": "untitled*",
+"output": "untitled",
 "caseSensitive": false
 },
 {
@@ -35774,7 +35774,7 @@
 {
 "input": "nhl",
 "inputType": "wholewords",
-"output": "nhl*",
+"output": "nhl",
 "caseSensitive": false
 },
 {
@@ -35876,7 +35876,7 @@
 {
 "input": "fc",
 "inputType": "wholewords",
-"output": "fc*",
+"output": "fc",
 "caseSensitive": false
 },
 {
@@ -35930,7 +35930,7 @@
 {
 "input": "fw",
 "inputType": "wholewords",
-"output": "fw*",
+"output": "fw",
 "caseSensitive": false
 },
 {
@@ -35990,7 +35990,7 @@
 {
 "input": "gs",
 "inputType": "wholewords",
-"output": "gs*",
+"output": "gs",
 "caseSensitive": false
 },
 {
@@ -36194,7 +36194,7 @@
 {
 "input": "bp",
 "inputType": "wholewords",
-"output": "bp*",
+"output": "bp",
 "caseSensitive": false
 },
 {
@@ -36212,7 +36212,7 @@
 {
 "input": "std",
 "inputType": "wholewords",
-"output": "std*",
+"output": "std",
 "caseSensitive": false
 },
 {
@@ -36302,7 +36302,7 @@
 {
 "input": "vid",
 "inputType": "wholewords",
-"output": "vid*",
+"output": "vid",
 "caseSensitive": false
 },
 {
@@ -36374,7 +36374,7 @@
 {
 "input": "oo",
 "inputType": "wholewords",
-"output": "oo*",
+"output": "oo",
 "caseSensitive": false
 },
 {
@@ -36446,7 +36446,7 @@
 {
 "input": "fda",
 "inputType": "wholewords",
-"output": "fda*",
+"output": "fda",
 "caseSensitive": false
 },
 {
@@ -36518,7 +36518,7 @@
 {
 "input": "thats",
 "inputType": "wholewords",
-"output": "thats*",
+"output": "thats",
 "caseSensitive": false
 },
 {
@@ -36530,7 +36530,7 @@
 {
 "input": "hdtv",
 "inputType": "wholewords",
-"output": "hdtv*",
+"output": "hdtv",
 "caseSensitive": false
 },
 {
@@ -36548,7 +36548,7 @@
 {
 "input": "asin",
 "inputType": "wholewords",
-"output": "asin*",
+"output": "asin",
 "caseSensitive": false
 },
 {
@@ -36626,7 +36626,7 @@
 {
 "input": "expansys",
 "inputType": "wholewords",
-"output": "expansys*",
+"output": "expansys",
 "caseSensitive": false
 },
 {
@@ -36722,7 +36722,7 @@
 {
 "input": "filename",
 "inputType": "wholewords",
-"output": "filename*",
+"output": "filename",
 "caseSensitive": false
 },
 {
@@ -36788,7 +36788,7 @@
 {
 "input": "fs",
 "inputType": "wholewords",
-"output": "fs*",
+"output": "fs",
 "caseSensitive": false
 },
 {
@@ -36806,7 +36806,7 @@
 {
 "input": "approx",
 "inputType": "wholewords",
-"output": "approx*",
+"output": "approx",
 "caseSensitive": false
 },
 {
@@ -36848,7 +36848,7 @@
 {
 "input": "nn",
 "inputType": "wholewords",
-"output": "nn*",
+"output": "nn",
 "caseSensitive": false
 },
 {
@@ -36890,7 +36890,7 @@
 {
 "input": "screenshots",
 "inputType": "wholewords",
-"output": "screenshots*",
+"output": "screenshots",
 "caseSensitive": false
 },
 {
@@ -37094,7 +37094,7 @@
 {
 "input": "kde",
 "inputType": "wholewords",
-"output": "kde*",
+"output": "kde",
 "caseSensitive": false
 },
 {
@@ -37136,7 +37136,7 @@
 {
 "input": "signup",
 "inputType": "wholewords",
-"output": "signup*",
+"output": "signup",
 "caseSensitive": false
 },
 {
@@ -37166,7 +37166,7 @@
 {
 "input": "vb",
 "inputType": "wholewords",
-"output": "vb*",
+"output": "vb",
 "caseSensitive": false
 },
 {
@@ -37178,7 +37178,7 @@
 {
 "input": "cams",
 "inputType": "wholewords",
-"output": "cams*",
+"output": "cams",
 "caseSensitive": false
 },
 {
@@ -37340,7 +37340,7 @@
 {
 "input": "proc",
 "inputType": "wholewords",
-"output": "proc*",
+"output": "proc",
 "caseSensitive": false
 },
 {
@@ -37364,7 +37364,7 @@
 {
 "input": "fx",
 "inputType": "wholewords",
-"output": "fx*",
+"output": "fx",
 "caseSensitive": false
 },
 {
@@ -37382,7 +37382,7 @@
 {
 "input": "dl",
 "inputType": "wholewords",
-"output": "dl*",
+"output": "dl",
 "caseSensitive": false
 },
 {
@@ -37652,7 +37652,7 @@
 {
 "input": "phpbb",
 "inputType": "wholewords",
-"output": "phpbb*",
+"output": "phpbb",
 "caseSensitive": false
 },
 {
@@ -37850,7 +37850,7 @@
 {
 "input": "ebook",
 "inputType": "wholewords",
-"output": "ebook*",
+"output": "ebook",
 "caseSensitive": false
 },
 {
@@ -37952,7 +37952,7 @@
 {
 "input": "lt",
 "inputType": "wholewords",
-"output": "lt*",
+"output": "lt",
 "caseSensitive": false
 },
 {
@@ -38012,7 +38012,7 @@
 {
 "input": "eq",
 "inputType": "wholewords",
-"output": "eq*",
+"output": "eq",
 "caseSensitive": false
 },
 {
@@ -38036,7 +38036,7 @@
 {
 "input": "ebooks",
 "inputType": "wholewords",
-"output": "ebooks*",
+"output": "ebooks",
 "caseSensitive": false
 },
 {
@@ -38156,7 +38156,7 @@
 {
 "input": "uv",
 "inputType": "wholewords",
-"output": "uv*",
+"output": "uv",
 "caseSensitive": false
 },
 {
@@ -38186,7 +38186,7 @@
 {
 "input": "cms",
 "inputType": "wholewords",
-"output": "cms*",
+"output": "cms",
 "caseSensitive": false
 },
 {
@@ -38222,7 +38222,7 @@
 {
 "input": "sg",
 "inputType": "wholewords",
-"output": "sg*",
+"output": "sg",
 "caseSensitive": false
 },
 {
@@ -38276,7 +38276,7 @@
 {
 "input": "utils",
 "inputType": "wholewords",
-"output": "utils*",
+"output": "utils",
 "caseSensitive": false
 },
 {
@@ -38306,7 +38306,7 @@
 {
 "input": "phys",
 "inputType": "wholewords",
-"output": "phys*",
+"output": "phys",
 "caseSensitive": false
 },
 {
@@ -38462,7 +38462,7 @@
 {
 "input": "antivirus",
 "inputType": "wholewords",
-"output": "antivirus*",
+"output": "antivirus",
 "caseSensitive": false
 },
 {
@@ -38864,7 +38864,7 @@
 {
 "input": "fa",
 "inputType": "wholewords",
-"output": "fa*",
+"output": "fa",
 "caseSensitive": false
 },
 {
@@ -38906,7 +38906,7 @@
 {
 "input": "ist",
 "inputType": "wholewords",
-"output": "ist*",
+"output": "ist",
 "caseSensitive": false
 },
 {
@@ -39008,7 +39008,7 @@
 {
 "input": "lc",
 "inputType": "wholewords",
-"output": "lc*",
+"output": "lc",
 "caseSensitive": false
 },
 {
@@ -39182,7 +39182,7 @@
 {
 "input": "sys",
 "inputType": "wholewords",
-"output": "sys*",
+"output": "sys",
 "caseSensitive": false
 },
 {
@@ -39290,7 +39290,7 @@
 {
 "input": "icq",
 "inputType": "wholewords",
-"output": "icq*",
+"output": "icq",
 "caseSensitive": false
 },
 {
@@ -39416,7 +39416,7 @@
 {
 "input": "downloadable",
 "inputType": "wholewords",
-"output": "downloadable*",
+"output": "downloadable",
 "caseSensitive": false
 },
 {
@@ -39440,7 +39440,7 @@
 {
 "input": "scsi",
 "inputType": "wholewords",
-"output": "scsi*",
+"output": "scsi",
 "caseSensitive": false
 },
 {
@@ -39464,7 +39464,7 @@
 {
 "input": "cu",
 "inputType": "wholewords",
-"output": "cu*",
+"output": "cu",
 "caseSensitive": false
 },
 {
@@ -39536,13 +39536,13 @@
 {
 "input": "dns",
 "inputType": "wholewords",
-"output": "dns*",
+"output": "dns",
 "caseSensitive": false
 },
 {
 "input": "thumbnails",
 "inputType": "wholewords",
-"output": "thumbnails*",
+"output": "thumbnails",
 "caseSensitive": false
 },
 {
@@ -39578,7 +39578,7 @@
 {
 "input": "bizrate",
 "inputType": "wholewords",
-"output": "bizrate*",
+"output": "bizrate",
 "caseSensitive": false
 },
 {
@@ -39674,7 +39674,7 @@
 {
 "input": "gamespot",
 "inputType": "wholewords",
-"output": "gamespot*",
+"output": "gamespot",
 "caseSensitive": false
 },
 {
@@ -39692,7 +39692,7 @@
 {
 "input": "wordpress",
 "inputType": "wholewords",
-"output": "wordpress*",
+"output": "wordpress",
 "caseSensitive": false
 },
 {
@@ -39764,7 +39764,7 @@
 {
 "input": "univ",
 "inputType": "wholewords",
-"output": "univ*",
+"output": "univ",
 "caseSensitive": false
 },
 {
@@ -39950,7 +39950,7 @@
 {
 "input": "travesti",
 "inputType": "wholewords",
-"output": "travesti*",
+"output": "travesti",
 "caseSensitive": false
 },
 {
@@ -39992,7 +39992,7 @@
 {
 "input": "np",
 "inputType": "wholewords",
-"output": "np*",
+"output": "np",
 "caseSensitive": false
 },
 {
@@ -40052,7 +40052,7 @@
 {
 "input": "tft",
 "inputType": "wholewords",
-"output": "tft*",
+"output": "tft",
 "caseSensitive": false
 },
 {
@@ -40070,7 +40070,7 @@
 {
 "input": "jvc",
 "inputType": "wholewords",
-"output": "jvc*",
+"output": "jvc",
 "caseSensitive": false
 },
 {
@@ -40202,13 +40202,13 @@
 {
 "input": "dt",
 "inputType": "wholewords",
-"output": "dt*",
+"output": "dt",
 "caseSensitive": false
 },
 {
 "input": "cgi",
 "inputType": "wholewords",
-"output": "cgi*",
+"output": "cgi",
 "caseSensitive": false
 },
 {
@@ -40478,7 +40478,7 @@
 {
 "input": "mem",
 "inputType": "wholewords",
-"output": "mem*",
+"output": "mem",
 "caseSensitive": false
 },
 {
@@ -40502,7 +40502,7 @@
 {
 "input": "gc",
 "inputType": "wholewords",
-"output": "gc*",
+"output": "gc",
 "caseSensitive": false
 },
 {
@@ -40562,7 +40562,7 @@
 {
 "input": "ci",
 "inputType": "wholewords",
-"output": "ci*",
+"output": "ci",
 "caseSensitive": false
 },
 {
@@ -40694,7 +40694,7 @@
 {
 "input": "colours",
 "inputType": "wholewords",
-"output": "colours*",
+"output": "colours",
 "caseSensitive": false
 },
 {
@@ -40736,7 +40736,7 @@
 {
 "input": "yn",
 "inputType": "wholewords",
-"output": "yn*",
+"output": "yn",
 "caseSensitive": false
 },
 {
@@ -40808,7 +40808,7 @@
 {
 "input": "kijiji",
 "inputType": "wholewords",
-"output": "kijiji*",
+"output": "kijiji",
 "caseSensitive": false
 },
 {
@@ -40844,7 +40844,7 @@
 {
 "input": "vii",
 "inputType": "wholewords",
-"output": "vii*",
+"output": "vii",
 "caseSensitive": false
 },
 {
@@ -40928,7 +40928,7 @@
 {
 "input": "cfr",
 "inputType": "wholewords",
-"output": "cfr*",
+"output": "cfr",
 "caseSensitive": false
 },
 {
@@ -41096,7 +41096,7 @@
 {
 "input": "starsmerchant",
 "inputType": "wholewords",
-"output": "starsmerchant*",
+"output": "starsmerchant",
 "caseSensitive": false
 },
 {
@@ -41162,7 +41162,7 @@
 {
 "input": "pmc",
 "inputType": "wholewords",
-"output": "pmc*",
+"output": "pmc",
 "caseSensitive": false
 },
 {
@@ -41216,7 +41216,7 @@
 {
 "input": "nb",
 "inputType": "wholewords",
-"output": "nb*",
+"output": "nb",
 "caseSensitive": false
 },
 {
@@ -41372,7 +41372,7 @@
 {
 "input": "levitra",
 "inputType": "wholewords",
-"output": "levitra*",
+"output": "levitra",
 "caseSensitive": false
 },
 {
@@ -41510,7 +41510,7 @@
 {
 "input": "widescreen",
 "inputType": "wholewords",
-"output": "widescreen*",
+"output": "widescreen",
 "caseSensitive": false
 },
 {
@@ -41534,7 +41534,7 @@
 {
 "input": "rx",
 "inputType": "wholewords",
-"output": "rx*",
+"output": "rx",
 "caseSensitive": false
 },
 {
@@ -41594,7 +41594,7 @@
 {
 "input": "gsm",
 "inputType": "wholewords",
-"output": "gsm*",
+"output": "gsm",
 "caseSensitive": false
 },
 {
@@ -41636,7 +41636,7 @@
 {
 "input": "meetup",
 "inputType": "wholewords",
-"output": "meetup*",
+"output": "meetup",
 "caseSensitive": false
 },
 {
@@ -41654,7 +41654,7 @@
 {
 "input": "ddr",
 "inputType": "wholewords",
-"output": "ddr*",
+"output": "ddr",
 "caseSensitive": false
 },
 {
@@ -41726,7 +41726,7 @@
 {
 "input": "ampland",
 "inputType": "wholewords",
-"output": "ampland*",
+"output": "ampland",
 "caseSensitive": false
 },
 {
@@ -41744,7 +41744,7 @@
 {
 "input": "pb",
 "inputType": "wholewords",
-"output": "pb*",
+"output": "pb",
 "caseSensitive": false
 },
 {
@@ -41774,7 +41774,7 @@
 {
 "input": "shopzilla",
 "inputType": "wholewords",
-"output": "shopzilla*",
+"output": "shopzilla",
 "caseSensitive": false
 },
 {
@@ -41864,13 +41864,13 @@
 {
 "input": "oe",
 "inputType": "wholewords",
-"output": "oe*",
+"output": "oe",
 "caseSensitive": false
 },
 {
 "input": "gif",
 "inputType": "wholewords",
-"output": "gif*",
+"output": "gif",
 "caseSensitive": false
 },
 {
@@ -41954,7 +41954,7 @@
 {
 "input": "jd",
 "inputType": "wholewords",
-"output": "jd*",
+"output": "jd",
 "caseSensitive": false
 },
 {
@@ -41966,7 +41966,7 @@
 {
 "input": "gpl",
 "inputType": "wholewords",
-"output": "gpl*",
+"output": "gpl",
 "caseSensitive": false
 },
 {
@@ -42068,7 +42068,7 @@
 {
 "input": "irc",
 "inputType": "wholewords",
-"output": "irc*",
+"output": "irc",
 "caseSensitive": false
 },
 {
@@ -42128,7 +42128,7 @@
 {
 "input": "dm",
 "inputType": "wholewords",
-"output": "dm*",
+"output": "dm",
 "caseSensitive": false
 },
 {
@@ -42302,7 +42302,7 @@
 {
 "input": "mls",
 "inputType": "wholewords",
-"output": "mls*",
+"output": "mls",
 "caseSensitive": false
 },
 {
@@ -42392,7 +42392,7 @@
 {
 "input": "cet",
 "inputType": "wholewords",
-"output": "cet*",
+"output": "cet",
 "caseSensitive": false
 },
 {
@@ -42428,7 +42428,7 @@
 {
 "input": "transexuales",
 "inputType": "wholewords",
-"output": "transexuales*",
+"output": "transexuales",
 "caseSensitive": false
 },
 {
@@ -42458,7 +42458,7 @@
 {
 "input": "inline",
 "inputType": "wholewords",
-"output": "inline*",
+"output": "inline",
 "caseSensitive": false
 },
 {
@@ -42470,7 +42470,7 @@
 {
 "input": "enquiries",
 "inputType": "wholewords",
-"output": "enquiries*",
+"output": "enquiries",
 "caseSensitive": false
 },
 {
@@ -42530,7 +42530,7 @@
 {
 "input": "ppc",
 "inputType": "wholewords",
-"output": "ppc*",
+"output": "ppc",
 "caseSensitive": false
 },
 {
@@ -42554,13 +42554,13 @@
 {
 "input": "div",
 "inputType": "wholewords",
-"output": "div*",
+"output": "div",
 "caseSensitive": false
 },
 {
 "input": "playlist",
 "inputType": "wholewords",
-"output": "playlist*",
+"output": "playlist",
 "caseSensitive": false
 },
 {
@@ -42644,7 +42644,7 @@
 {
 "input": "jc",
 "inputType": "wholewords",
-"output": "jc*",
+"output": "jc",
 "caseSensitive": false
 },
 {
@@ -42656,7 +42656,7 @@
 {
 "input": "plugins",
 "inputType": "wholewords",
-"output": "plugins*",
+"output": "plugins",
 "caseSensitive": false
 },
 {
@@ -42710,7 +42710,7 @@
 {
 "input": "freebsd",
 "inputType": "wholewords",
-"output": "freebsd*",
+"output": "freebsd",
 "caseSensitive": false
 },
 {
@@ -42728,7 +42728,7 @@
 {
 "input": "prostores",
 "inputType": "wholewords",
-"output": "prostores*",
+"output": "prostores",
 "caseSensitive": false
 },
 {
@@ -42740,7 +42740,7 @@
 {
 "input": "dist",
 "inputType": "wholewords",
-"output": "dist*",
+"output": "dist",
 "caseSensitive": false
 },
 {
@@ -42980,7 +42980,7 @@
 {
 "input": "thumbzilla",
 "inputType": "wholewords",
-"output": "thumbzilla*",
+"output": "thumbzilla",
 "caseSensitive": false
 },
 {
@@ -43010,7 +43010,7 @@
 {
 "input": "pichunter",
 "inputType": "wholewords",
-"output": "pichunter*",
+"output": "pichunter",
 "caseSensitive": false
 },
 {
@@ -43028,7 +43028,7 @@
 {
 "input": "thehun",
 "inputType": "wholewords",
-"output": "thehun*",
+"output": "thehun",
 "caseSensitive": false
 },
 {
@@ -43166,7 +43166,7 @@
 {
 "input": "rpg",
 "inputType": "wholewords",
-"output": "rpg*",
+"output": "rpg",
 "caseSensitive": false
 },
 {
@@ -43220,13 +43220,13 @@
 {
 "input": "pd",
 "inputType": "wholewords",
-"output": "pd*",
+"output": "pd",
 "caseSensitive": false
 },
 {
 "input": "prot",
 "inputType": "wholewords",
-"output": "prot*",
+"output": "prot",
 "caseSensitive": false
 },
 {
@@ -43310,7 +43310,7 @@
 {
 "input": "tgp",
 "inputType": "wholewords",
-"output": "tgp*",
+"output": "tgp",
 "caseSensitive": false
 },
 {
@@ -43376,7 +43376,7 @@
 {
 "input": "diy",
 "inputType": "wholewords",
-"output": "diy*",
+"output": "diy",
 "caseSensitive": false
 },
 {
@@ -43424,7 +43424,7 @@
 {
 "input": "arg",
 "inputType": "wholewords",
-"output": "arg*",
+"output": "arg",
 "caseSensitive": false
 },
 {
@@ -43502,7 +43502,7 @@
 {
 "input": "jpeg",
 "inputType": "wholewords",
-"output": "jpeg*",
+"output": "jpeg",
 "caseSensitive": false
 },
 {
@@ -43532,7 +43532,7 @@
 {
 "input": "ati",
 "inputType": "wholewords",
-"output": "ati*",
+"output": "ati",
 "caseSensitive": false
 },
 {
@@ -43658,7 +43658,7 @@
 {
 "input": "rna",
 "inputType": "wholewords",
-"output": "rna*",
+"output": "rna",
 "caseSensitive": false
 },
 {
@@ -43988,7 +43988,7 @@
 {
 "input": "uc",
 "inputType": "wholewords",
-"output": "uc*",
+"output": "uc",
 "caseSensitive": false
 },
 {
@@ -44078,7 +44078,7 @@
 {
 "input": "zope",
 "inputType": "wholewords",
-"output": "zope*",
+"output": "zope",
 "caseSensitive": false
 },
 {
@@ -44144,13 +44144,13 @@
 {
 "input": "buf",
 "inputType": "wholewords",
-"output": "buf*",
+"output": "buf",
 "caseSensitive": false
 },
 {
 "input": "ld",
 "inputType": "wholewords",
-"output": "ld*",
+"output": "ld",
 "caseSensitive": false
 },
 {
@@ -44162,7 +44162,7 @@
 {
 "input": "webshots",
 "inputType": "wholewords",
-"output": "webshots*",
+"output": "webshots",
 "caseSensitive": false
 },
 {
@@ -44432,13 +44432,13 @@
 {
 "input": "msgid",
 "inputType": "wholewords",
-"output": "msgid*",
+"output": "msgid",
 "caseSensitive": false
 },
 {
 "input": "transexual",
 "inputType": "wholewords",
-"output": "transexual*",
+"output": "transexual",
 "caseSensitive": false
 },
 {
@@ -44486,7 +44486,7 @@
 {
 "input": "suse",
 "inputType": "wholewords",
-"output": "suse*",
+"output": "suse",
 "caseSensitive": false
 },
 {
@@ -44516,7 +44516,7 @@
 {
 "input": "mf",
 "inputType": "wholewords",
-"output": "mf*",
+"output": "mf",
 "caseSensitive": false
 },
 {
@@ -44606,7 +44606,7 @@
 {
 "input": "msgstr",
 "inputType": "wholewords",
-"output": "msgstr*",
+"output": "msgstr",
 "caseSensitive": false
 },
 {
@@ -44624,13 +44624,13 @@
 {
 "input": "mw",
 "inputType": "wholewords",
-"output": "mw*",
+"output": "mw",
 "caseSensitive": false
 },
 {
 "input": "adipex",
 "inputType": "wholewords",
-"output": "adipex*",
+"output": "adipex",
 "caseSensitive": false
 },
 {
@@ -44660,7 +44660,7 @@
 {
 "input": "ict",
 "inputType": "wholewords",
-"output": "ict*",
+"output": "ict",
 "caseSensitive": false
 },
 {
@@ -44708,7 +44708,7 @@
 {
 "input": "dp",
 "inputType": "wholewords",
-"output": "dp*",
+"output": "dp",
 "caseSensitive": false
 },
 {
@@ -44906,13 +44906,13 @@
 {
 "input": "sku",
 "inputType": "wholewords",
-"output": "sku*",
+"output": "sku",
 "caseSensitive": false
 },
 {
 "input": "ht",
 "inputType": "wholewords",
-"output": "ht*",
+"output": "ht",
 "caseSensitive": false
 },
 {
@@ -44948,7 +44948,7 @@
 {
 "input": "za",
 "inputType": "wholewords",
-"output": "za*",
+"output": "za",
 "caseSensitive": false
 },
 {
@@ -45098,7 +45098,7 @@
 {
 "input": "screenshot",
 "inputType": "wholewords",
-"output": "screenshot*",
+"output": "screenshot",
 "caseSensitive": false
 },
 {
@@ -45110,7 +45110,7 @@
 {
 "input": "kelkoo",
 "inputType": "wholewords",
-"output": "kelkoo*",
+"output": "kelkoo",
 "caseSensitive": false
 },
 {
@@ -45164,7 +45164,7 @@
 {
 "input": "pts",
 "inputType": "wholewords",
-"output": "pts*",
+"output": "pts",
 "caseSensitive": false
 },
 {
@@ -45188,13 +45188,13 @@
 {
 "input": "rh",
 "inputType": "wholewords",
-"output": "rh*",
+"output": "rh",
 "caseSensitive": false
 },
 {
 "input": "rrp",
 "inputType": "wholewords",
-"output": "rrp*",
+"output": "rrp",
 "caseSensitive": false
 },
 {
@@ -45224,7 +45224,7 @@
 {
 "input": "fg",
 "inputType": "wholewords",
-"output": "fg*",
+"output": "fg",
 "caseSensitive": false
 },
 {
@@ -45350,13 +45350,13 @@
 {
 "input": "ooo",
 "inputType": "wholewords",
-"output": "ooo*",
+"output": "ooo",
 "caseSensitive": false
 },
 {
 "input": "hz",
 "inputType": "wholewords",
-"output": "hz*",
+"output": "hz",
 "caseSensitive": false
 },
 {
@@ -45464,7 +45464,7 @@
 {
 "input": "ipaq",
 "inputType": "wholewords",
-"output": "ipaq*",
+"output": "ipaq",
 "caseSensitive": false
 },
 {
@@ -45488,7 +45488,7 @@
 {
 "input": "bk",
 "inputType": "wholewords",
-"output": "bk*",
+"output": "bk",
 "caseSensitive": false
 },
 {
@@ -45518,7 +45518,7 @@
 {
 "input": "nhs",
 "inputType": "wholewords",
-"output": "nhs*",
+"output": "nhs",
 "caseSensitive": false
 },
 {
@@ -45584,7 +45584,7 @@
 {
 "input": "ste",
 "inputType": "wholewords",
-"output": "ste*",
+"output": "ste",
 "caseSensitive": false
 },
 {
@@ -45668,7 +45668,7 @@
 {
 "input": "ment",
 "inputType": "wholewords",
-"output": "ment*",
+"output": "ment",
 "caseSensitive": false
 },
 {
@@ -45698,7 +45698,7 @@
 {
 "input": "col",
 "inputType": "wholewords",
-"output": "col*",
+"output": "col",
 "caseSensitive": false
 },
 {
@@ -45740,13 +45740,13 @@
 {
 "input": "dx",
 "inputType": "wholewords",
-"output": "dx*",
+"output": "dx",
 "caseSensitive": false
 },
 {
 "input": "sk",
 "inputType": "wholewords",
-"output": "sk*",
+"output": "sk",
 "caseSensitive": false
 },
 {
@@ -45770,7 +45770,7 @@
 {
 "input": "biol",
 "inputType": "wholewords",
-"output": "biol*",
+"output": "biol",
 "caseSensitive": false
 },
 {
@@ -45830,7 +45830,7 @@
 {
 "input": "sq",
 "inputType": "wholewords",
-"output": "sq*",
+"output": "sq",
 "caseSensitive": false
 },
 {
@@ -45848,7 +45848,7 @@
 {
 "input": "oc",
 "inputType": "wholewords",
-"output": "oc*",
+"output": "oc",
 "caseSensitive": false
 },
 {
@@ -45902,7 +45902,7 @@
 {
 "input": "aj",
 "inputType": "wholewords",
-"output": "aj*",
+"output": "aj",
 "caseSensitive": false
 },
 {
@@ -45920,7 +45920,7 @@
 {
 "input": "treo",
 "inputType": "wholewords",
-"output": "treo*",
+"output": "treo",
 "caseSensitive": false
 },
 {
@@ -45944,7 +45944,7 @@
 {
 "input": "une",
 "inputType": "wholewords",
-"output": "une*",
+"output": "une",
 "caseSensitive": false
 },
 {
@@ -46040,13 +46040,13 @@
 {
 "input": "dod",
 "inputType": "wholewords",
-"output": "dod*",
+"output": "dod",
 "caseSensitive": false
 },
 {
 "input": "wp",
 "inputType": "wholewords",
-"output": "wp*",
+"output": "wp",
 "caseSensitive": false
 },
 {
@@ -46058,7 +46058,7 @@
 {
 "input": "naturals",
 "inputType": "wholewords",
-"output": "naturals*",
+"output": "naturals",
 "caseSensitive": false
 },
 {
@@ -46214,7 +46214,7 @@
 {
 "input": "om",
 "inputType": "wholewords",
-"output": "om*",
+"output": "om",
 "caseSensitive": false
 },
 {
@@ -46310,7 +46310,7 @@
 {
 "input": "tp",
 "inputType": "wholewords",
-"output": "tp*",
+"output": "tp",
 "caseSensitive": false
 },
 {
@@ -46340,7 +46340,7 @@
 {
 "input": "jm",
 "inputType": "wholewords",
-"output": "jm*",
+"output": "jm",
 "caseSensitive": false
 },
 {
@@ -46364,19 +46364,19 @@
 {
 "input": "dpi",
 "inputType": "wholewords",
-"output": "dpi*",
+"output": "dpi",
 "caseSensitive": false
 },
 {
 "input": "scripting",
 "inputType": "wholewords",
-"output": "scripting*",
+"output": "scripting",
 "caseSensitive": false
 },
 {
 "input": "gis",
 "inputType": "wholewords",
-"output": "gis*",
+"output": "gis",
 "caseSensitive": false
 },
 {
@@ -46412,7 +46412,7 @@
 {
 "input": "loc",
 "inputType": "wholewords",
-"output": "loc*",
+"output": "loc",
 "caseSensitive": false
 },
 {
@@ -46502,7 +46502,7 @@
 {
 "input": "cn",
 "inputType": "wholewords",
-"output": "cn*",
+"output": "cn",
 "caseSensitive": false
 },
 {
@@ -46784,7 +46784,7 @@
 {
 "input": "viewpicture",
 "inputType": "wholewords",
-"output": "viewpicture*",
+"output": "viewpicture",
 "caseSensitive": false
 },
 {
@@ -46844,7 +46844,7 @@
 {
 "input": "gui",
 "inputType": "wholewords",
-"output": "gui*",
+"output": "gui",
 "caseSensitive": false
 },
 {
@@ -46874,7 +46874,7 @@
 {
 "input": "rn",
 "inputType": "wholewords",
-"output": "rn*",
+"output": "rn",
 "caseSensitive": false
 },
 {
@@ -46934,7 +46934,7 @@
 {
 "input": "andale",
 "inputType": "wholewords",
-"output": "andale*",
+"output": "andale",
 "caseSensitive": false
 },
 {
@@ -46946,7 +46946,7 @@
 {
 "input": "remix",
 "inputType": "wholewords",
-"output": "remix*",
+"output": "remix",
 "caseSensitive": false
 },
 {
@@ -47018,7 +47018,7 @@
 {
 "input": "cg",
 "inputType": "wholewords",
-"output": "cg*",
+"output": "cg",
 "caseSensitive": false
 },
 {
@@ -47030,7 +47030,7 @@
 {
 "input": "ser",
 "inputType": "wholewords",
-"output": "ser*",
+"output": "ser",
 "caseSensitive": false
 },
 {
@@ -47132,7 +47132,7 @@
 {
 "input": "href",
 "inputType": "wholewords",
-"output": "href*",
+"output": "href",
 "caseSensitive": false
 },
 {
@@ -47168,7 +47168,7 @@
 {
 "input": "fwd",
 "inputType": "wholewords",
-"output": "fwd*",
+"output": "fwd",
 "caseSensitive": false
 },
 {
@@ -47264,7 +47264,7 @@
 {
 "input": "endif",
 "inputType": "wholewords",
-"output": "endif*",
+"output": "endif",
 "caseSensitive": false
 },
 {
@@ -47318,7 +47318,7 @@
 {
 "input": "hwy",
 "inputType": "wholewords",
-"output": "hwy*",
+"output": "hwy",
 "caseSensitive": false
 },
 {
@@ -47396,13 +47396,13 @@
 {
 "input": "ix",
 "inputType": "wholewords",
-"output": "ix*",
+"output": "ix",
 "caseSensitive": false
 },
 {
 "input": "gdp",
 "inputType": "wholewords",
-"output": "gdp*",
+"output": "gdp",
 "caseSensitive": false
 },
 {
@@ -47450,7 +47450,7 @@
 {
 "input": "hotmail",
 "inputType": "wholewords",
-"output": "hotmail*",
+"output": "hotmail",
 "caseSensitive": false
 },
 {
@@ -47534,7 +47534,7 @@
 {
 "input": "trackbacks",
 "inputType": "wholewords",
-"output": "trackbacks*",
+"output": "trackbacks",
 "caseSensitive": false
 },
 {
@@ -47684,7 +47684,7 @@
 {
 "input": "findlaw",
 "inputType": "wholewords",
-"output": "findlaw*",
+"output": "findlaw",
 "caseSensitive": false
 },
 {
@@ -47864,7 +47864,7 @@
 {
 "input": "yrs",
 "inputType": "wholewords",
-"output": "yrs*",
+"output": "yrs",
 "caseSensitive": false
 },
 {
@@ -47882,7 +47882,7 @@
 {
 "input": "gba",
 "inputType": "wholewords",
-"output": "gba*",
+"output": "gba",
 "caseSensitive": false
 },
 {
@@ -47906,7 +47906,7 @@
 {
 "input": "bm",
 "inputType": "wholewords",
-"output": "bm*",
+"output": "bm",
 "caseSensitive": false
 },
 {
@@ -47954,7 +47954,7 @@
 {
 "input": "howto",
 "inputType": "wholewords",
-"output": "howto*",
+"output": "howto",
 "caseSensitive": false
 },
 {
@@ -48026,7 +48026,7 @@
 {
 "input": "screensaver",
 "inputType": "wholewords",
-"output": "screensaver*",
+"output": "screensaver",
 "caseSensitive": false
 },
 {
@@ -48146,7 +48146,7 @@
 {
 "input": "str",
 "inputType": "wholewords",
-"output": "str*",
+"output": "str",
 "caseSensitive": false
 },
 {
@@ -48230,7 +48230,7 @@
 {
 "input": "screensavers",
 "inputType": "wholewords",
-"output": "screensavers*",
+"output": "screensavers",
 "caseSensitive": false
 },
 {
@@ -48368,7 +48368,7 @@
 {
 "input": "formatting",
 "inputType": "wholewords",
-"output": "formatting*",
+"output": "formatting",
 "caseSensitive": false
 },
 {
@@ -48446,7 +48446,7 @@
 {
 "input": "weblogs",
 "inputType": "wholewords",
-"output": "weblogs*",
+"output": "weblogs",
 "caseSensitive": false
 },
 {
@@ -48470,7 +48470,7 @@
 {
 "input": "rj",
 "inputType": "wholewords",
-"output": "rj*",
+"output": "rj",
 "caseSensitive": false
 },
 {
@@ -48488,7 +48488,7 @@
 {
 "input": "soc",
 "inputType": "wholewords",
-"output": "soc*",
+"output": "soc",
 "caseSensitive": false
 },
 {
@@ -48758,7 +48758,7 @@
 {
 "input": "voyeurweb",
 "inputType": "wholewords",
-"output": "voyeurweb*",
+"output": "voyeurweb",
 "caseSensitive": false
 },
 {
@@ -48806,7 +48806,7 @@
 {
 "input": "logitech",
 "inputType": "wholewords",
-"output": "logitech*",
+"output": "logitech",
 "caseSensitive": false
 },
 {
@@ -48830,7 +48830,7 @@
 {
 "input": "dem",
 "inputType": "wholewords",
-"output": "dem*",
+"output": "dem",
 "caseSensitive": false
 },
 {
@@ -48842,7 +48842,7 @@
 {
 "input": "wav",
 "inputType": "wholewords",
-"output": "wav*",
+"output": "wav",
 "caseSensitive": false
 },
 {
@@ -48992,7 +48992,7 @@
 {
 "input": "gratuit",
 "inputType": "wholewords",
-"output": "gratuit*",
+"output": "gratuit",
 "caseSensitive": false
 },
 {
@@ -49082,7 +49082,7 @@
 {
 "input": "rp",
 "inputType": "wholewords",
-"output": "rp*",
+"output": "rp",
 "caseSensitive": false
 },
 {
@@ -49172,7 +49172,7 @@
 {
 "input": "tba",
 "inputType": "wholewords",
-"output": "tba*",
+"output": "tba",
 "caseSensitive": false
 },
 {
@@ -49190,7 +49190,7 @@
 {
 "input": "usgs",
 "inputType": "wholewords",
-"output": "usgs*",
+"output": "usgs",
 "caseSensitive": false
 },
 {
@@ -49334,7 +49334,7 @@
 {
 "input": "hc",
 "inputType": "wholewords",
-"output": "hc*",
+"output": "hc",
 "caseSensitive": false
 },
 {
@@ -49352,13 +49352,13 @@
 {
 "input": "rca",
 "inputType": "wholewords",
-"output": "rca*",
+"output": "rca",
 "caseSensitive": false
 },
 {
 "input": "fp",
 "inputType": "wholewords",
-"output": "fp*",
+"output": "fp",
 "caseSensitive": false
 },
 {
@@ -49418,13 +49418,13 @@
 {
 "input": "hydrocodone",
 "inputType": "wholewords",
-"output": "hydrocodone*",
+"output": "hydrocodone",
 "caseSensitive": false
 },
 {
 "input": "gst",
 "inputType": "wholewords",
-"output": "gst*",
+"output": "gst",
 "caseSensitive": false
 },
 {
@@ -49466,7 +49466,7 @@
 {
 "input": "mailto",
 "inputType": "wholewords",
-"output": "mailto*",
+"output": "mailto",
 "caseSensitive": false
 },
 {
@@ -49478,7 +49478,7 @@
 {
 "input": "jj",
 "inputType": "wholewords",
-"output": "jj*",
+"output": "jj",
 "caseSensitive": false
 },
 {
@@ -49664,7 +49664,7 @@
 {
 "input": "obj",
 "inputType": "wholewords",
-"output": "obj*",
+"output": "obj",
 "caseSensitive": false
 },
 {
@@ -49706,7 +49706,7 @@
 {
 "input": "dans",
 "inputType": "wholewords",
-"output": "dans*",
+"output": "dans",
 "caseSensitive": false
 },
 {
@@ -49748,7 +49748,7 @@
 {
 "input": "viii",
 "inputType": "wholewords",
-"output": "viii*",
+"output": "viii",
 "caseSensitive": false
 },
 {
@@ -49760,7 +49760,7 @@
 {
 "input": "metadata",
 "inputType": "wholewords",
-"output": "metadata*",
+"output": "metadata",
 "caseSensitive": false
 },
 {
@@ -49886,7 +49886,7 @@
 {
 "input": "modelling",
 "inputType": "wholewords",
-"output": "modelling*",
+"output": "modelling",
 "caseSensitive": false
 },
 {
@@ -49904,7 +49904,7 @@
 {
 "input": "dept",
 "inputType": "wholewords",
-"output": "dept*",
+"output": "dept",
 "caseSensitive": false
 },
 {
@@ -50036,7 +50036,7 @@
 {
 "input": "troubleshooting",
 "inputType": "wholewords",
-"output": "troubleshooting*",
+"output": "troubleshooting",
 "caseSensitive": false
 },
 {
@@ -50060,13 +50060,13 @@
 {
 "input": "rl",
 "inputType": "wholewords",
-"output": "rl*",
+"output": "rl",
 "caseSensitive": false
 },
 {
 "input": "erp",
 "inputType": "wholewords",
-"output": "erp*",
+"output": "erp",
 "caseSensitive": false
 },
 {
@@ -50078,7 +50078,7 @@
 {
 "input": "gl",
 "inputType": "wholewords",
-"output": "gl*",
+"output": "gl",
 "caseSensitive": false
 },
 {
@@ -50090,7 +50090,7 @@
 {
 "input": "ui",
 "inputType": "wholewords",
-"output": "ui*",
+"output": "ui",
 "caseSensitive": false
 },
 {
@@ -50108,7 +50108,7 @@
 {
 "input": "dh",
 "inputType": "wholewords",
-"output": "dh*",
+"output": "dh",
 "caseSensitive": false
 },
 {
@@ -50138,7 +50138,7 @@
 {
 "input": "vpn",
 "inputType": "wholewords",
-"output": "vpn*",
+"output": "vpn",
 "caseSensitive": false
 },
 {
@@ -50150,7 +50150,7 @@
 {
 "input": "fcc",
 "inputType": "wholewords",
-"output": "fcc*",
+"output": "fcc",
 "caseSensitive": false
 },
 {
@@ -50198,7 +50198,7 @@
 {
 "input": "eds",
 "inputType": "wholewords",
-"output": "eds*",
+"output": "eds",
 "caseSensitive": false
 },
 {
@@ -50222,7 +50222,7 @@
 {
 "input": "webcams",
 "inputType": "wholewords",
-"output": "webcams*",
+"output": "webcams",
 "caseSensitive": false
 },
 {
@@ -50234,7 +50234,7 @@
 {
 "input": "webmasters",
 "inputType": "wholewords",
-"output": "webmasters*",
+"output": "webmasters",
 "caseSensitive": false
 },
 {
@@ -50246,7 +50246,7 @@
 {
 "input": "df",
 "inputType": "wholewords",
-"output": "df*",
+"output": "df",
 "caseSensitive": false
 },
 {
@@ -50258,7 +50258,7 @@
 {
 "input": "acdbentity",
 "inputType": "wholewords",
-"output": "acdbentity*",
+"output": "acdbentity",
 "caseSensitive": false
 },
 {
@@ -50276,7 +50276,7 @@
 {
 "input": "handhelds",
 "inputType": "wholewords",
-"output": "handhelds*",
+"output": "handhelds",
 "caseSensitive": false
 },
 {
@@ -50456,7 +50456,7 @@
 {
 "input": "zshops",
 "inputType": "wholewords",
-"output": "zshops*",
+"output": "zshops",
 "caseSensitive": false
 },
 {
@@ -50492,7 +50492,7 @@
 {
 "input": "pokemon",
 "inputType": "wholewords",
-"output": "pokemon*",
+"output": "pokemon",
 "caseSensitive": false
 },
 {
@@ -50504,7 +50504,7 @@
 {
 "input": "ambien",
 "inputType": "wholewords",
-"output": "ambien*",
+"output": "ambien",
 "caseSensitive": false
 },
 {
@@ -50546,7 +50546,7 @@
 {
 "input": "worldcat",
 "inputType": "wholewords",
-"output": "worldcat*",
+"output": "worldcat",
 "caseSensitive": false
 },
 {
@@ -50600,7 +50600,7 @@
 {
 "input": "cdt",
 "inputType": "wholewords",
-"output": "cdt*",
+"output": "cdt",
 "caseSensitive": false
 },
 {
@@ -50768,7 +50768,7 @@
 {
 "input": "ez",
 "inputType": "wholewords",
-"output": "ez*",
+"output": "ez",
 "caseSensitive": false
 },
 {
@@ -50810,7 +50810,7 @@
 {
 "input": "pf",
 "inputType": "wholewords",
-"output": "pf*",
+"output": "pf",
 "caseSensitive": false
 },
 {
@@ -50822,7 +50822,7 @@
 {
 "input": "uw",
 "inputType": "wholewords",
-"output": "uw*",
+"output": "uw",
 "caseSensitive": false
 },
 {
@@ -50900,7 +50900,7 @@
 {
 "input": "bd",
 "inputType": "wholewords",
-"output": "bd*",
+"output": "bd",
 "caseSensitive": false
 },
 {
@@ -51038,7 +51038,7 @@
 {
 "input": "divx",
 "inputType": "wholewords",
-"output": "divx*",
+"output": "divx",
 "caseSensitive": false
 },
 {
@@ -51110,7 +51110,7 @@
 {
 "input": "eval",
 "inputType": "wholewords",
-"output": "eval*",
+"output": "eval",
 "caseSensitive": false
 },
 {
@@ -51272,7 +51272,7 @@
 {
 "input": "muze",
 "inputType": "wholewords",
-"output": "muze*",
+"output": "muze",
 "caseSensitive": false
 },
 {
@@ -51350,7 +51350,7 @@
 {
 "input": "gmc",
 "inputType": "wholewords",
-"output": "gmc*",
+"output": "gmc",
 "caseSensitive": false
 },
 {
@@ -51362,7 +51362,7 @@
 {
 "input": "hh",
 "inputType": "wholewords",
-"output": "hh*",
+"output": "hh",
 "caseSensitive": false
 },
 {
@@ -51386,7 +51386,7 @@
 {
 "input": "adsl",
 "inputType": "wholewords",
-"output": "adsl*",
+"output": "adsl",
 "caseSensitive": false
 },
 {
@@ -51548,7 +51548,7 @@
 {
 "input": "fd",
 "inputType": "wholewords",
-"output": "fd*",
+"output": "fd",
 "caseSensitive": false
 },
 {
@@ -51638,7 +51638,7 @@
 {
 "input": "asn",
 "inputType": "wholewords",
-"output": "asn*",
+"output": "asn",
 "caseSensitive": false
 },
 {
@@ -51734,13 +51734,13 @@
 {
 "input": "listprice",
 "inputType": "wholewords",
-"output": "listprice*",
+"output": "listprice",
 "caseSensitive": false
 },
 {
 "input": "libs",
 "inputType": "wholewords",
-"output": "libs*",
+"output": "libs",
 "caseSensitive": false
 },
 {
@@ -51776,19 +51776,19 @@
 {
 "input": "pk",
 "inputType": "wholewords",
-"output": "pk*",
+"output": "pk",
 "caseSensitive": false
 },
 {
 "input": "sagem",
 "inputType": "wholewords",
-"output": "sagem*",
+"output": "sagem",
 "caseSensitive": false
 },
 {
 "input": "knowledgestorm",
 "inputType": "wholewords",
-"output": "knowledgestorm*",
+"output": "knowledgestorm",
 "caseSensitive": false
 },
 {
@@ -51806,7 +51806,7 @@
 {
 "input": "ppm",
 "inputType": "wholewords",
-"output": "ppm*",
+"output": "ppm",
 "caseSensitive": false
 },
 {
@@ -51926,7 +51926,7 @@
 {
 "input": "inf",
 "inputType": "wholewords",
-"output": "inf*",
+"output": "inf",
 "caseSensitive": false
 },
 {
@@ -51974,7 +51974,7 @@
 {
 "input": "vcr",
 "inputType": "wholewords",
-"output": "vcr*",
+"output": "vcr",
 "caseSensitive": false
 },
 {
@@ -52256,13 +52256,13 @@
 {
 "input": "pct",
 "inputType": "wholewords",
-"output": "pct*",
+"output": "pct",
 "caseSensitive": false
 },
 {
 "input": "wb",
 "inputType": "wholewords",
-"output": "wb*",
+"output": "wb",
 "caseSensitive": false
 },
 {
@@ -52298,13 +52298,13 @@
 {
 "input": "smilies",
 "inputType": "wholewords",
-"output": "smilies*",
+"output": "smilies",
 "caseSensitive": false
 },
 {
 "input": "vids",
 "inputType": "wholewords",
-"output": "vids*",
+"output": "vids",
 "caseSensitive": false
 },
 {
@@ -52376,13 +52376,13 @@
 {
 "input": "sn",
 "inputType": "wholewords",
-"output": "sn*",
+"output": "sn",
 "caseSensitive": false
 },
 {
 "input": "qld",
 "inputType": "wholewords",
-"output": "qld*",
+"output": "qld",
 "caseSensitive": false
 },
 {
@@ -52454,7 +52454,7 @@
 {
 "input": "findarticles",
 "inputType": "wholewords",
-"output": "findarticles*",
+"output": "findarticles",
 "caseSensitive": false
 },
 {
@@ -52514,7 +52514,7 @@
 {
 "input": "issn",
 "inputType": "wholewords",
-"output": "issn*",
+"output": "issn",
 "caseSensitive": false
 },
 {
@@ -52556,7 +52556,7 @@
 {
 "input": "podcasts",
 "inputType": "wholewords",
-"output": "podcasts*",
+"output": "podcasts",
 "caseSensitive": false
 },
 {
@@ -52664,7 +52664,7 @@
 {
 "input": "mysimon",
 "inputType": "wholewords",
-"output": "mysimon*",
+"output": "mysimon",
 "caseSensitive": false
 },
 {
@@ -52700,7 +52700,7 @@
 {
 "input": "oecd",
 "inputType": "wholewords",
-"output": "oecd*",
+"output": "oecd",
 "caseSensitive": false
 },
 {
@@ -52814,13 +52814,13 @@
 {
 "input": "firewire",
 "inputType": "wholewords",
-"output": "firewire*",
+"output": "firewire",
 "caseSensitive": false
 },
 {
 "input": "mods",
 "inputType": "wholewords",
-"output": "mods*",
+"output": "mods",
 "caseSensitive": false
 },
 {
@@ -52838,7 +52838,7 @@
 {
 "input": "organised",
 "inputType": "wholewords",
-"output": "organised*",
+"output": "organised",
 "caseSensitive": false
 },
 {
@@ -52874,7 +52874,7 @@
 {
 "input": "vsnet",
 "inputType": "wholewords",
-"output": "vsnet*",
+"output": "vsnet",
 "caseSensitive": false
 },
 {
@@ -52952,7 +52952,7 @@
 {
 "input": "msie",
 "inputType": "wholewords",
-"output": "msie*",
+"output": "msie",
 "caseSensitive": false
 },
 {
@@ -52964,7 +52964,7 @@
 {
 "input": "wn",
 "inputType": "wholewords",
-"output": "wn*",
+"output": "wn",
 "caseSensitive": false
 },
 {
@@ -53006,13 +53006,13 @@
 {
 "input": "ccd",
 "inputType": "wholewords",
-"output": "ccd*",
+"output": "ccd",
 "caseSensitive": false
 },
 {
 "input": "sv",
 "inputType": "wholewords",
-"output": "sv*",
+"output": "sv",
 "caseSensitive": false
 },
 {
@@ -53102,7 +53102,7 @@
 {
 "input": "zu",
 "inputType": "wholewords",
-"output": "zu*",
+"output": "zu",
 "caseSensitive": false
 },
 {
@@ -53222,7 +53222,7 @@
 {
 "input": "llp",
 "inputType": "wholewords",
-"output": "llp*",
+"output": "llp",
 "caseSensitive": false
 },
 {
@@ -53240,7 +53240,7 @@
 {
 "input": "boc",
 "inputType": "wholewords",
-"output": "boc*",
+"output": "boc",
 "caseSensitive": false
 },
 {
@@ -53252,13 +53252,13 @@
 {
 "input": "dg",
 "inputType": "wholewords",
-"output": "dg*",
+"output": "dg",
 "caseSensitive": false
 },
 {
 "input": "asus",
 "inputType": "wholewords",
-"output": "asus*",
+"output": "asus",
 "caseSensitive": false
 },
 {
@@ -53282,7 +53282,7 @@
 {
 "input": "techrepublic",
 "inputType": "wholewords",
-"output": "techrepublic*",
+"output": "techrepublic",
 "caseSensitive": false
 },
 {
@@ -53294,7 +53294,7 @@
 {
 "input": "vg",
 "inputType": "wholewords",
-"output": "vg*",
+"output": "vg",
 "caseSensitive": false
 },
 {
@@ -53306,7 +53306,7 @@
 {
 "input": "filme",
 "inputType": "wholewords",
-"output": "filme*",
+"output": "filme",
 "caseSensitive": false
 },
 {
@@ -53354,7 +53354,7 @@
 {
 "input": "fo",
 "inputType": "wholewords",
-"output": "fo*",
+"output": "fo",
 "caseSensitive": false
 },
 {
@@ -53402,7 +53402,7 @@
 {
 "input": "tmp",
 "inputType": "wholewords",
-"output": "tmp*",
+"output": "tmp",
 "caseSensitive": false
 },
 {
@@ -53660,7 +53660,7 @@
 {
 "input": "ol",
 "inputType": "wholewords",
-"output": "ol*",
+"output": "ol",
 "caseSensitive": false
 },
 {
@@ -53678,7 +53678,7 @@
 {
 "input": "js",
 "inputType": "wholewords",
-"output": "js*",
+"output": "js",
 "caseSensitive": false
 },
 {
@@ -53696,7 +53696,7 @@
 {
 "input": "webpage",
 "inputType": "wholewords",
-"output": "webpage*",
+"output": "webpage",
 "caseSensitive": false
 },
 {
@@ -53738,7 +53738,7 @@
 {
 "input": "pn",
 "inputType": "wholewords",
-"output": "pn*",
+"output": "pn",
 "caseSensitive": false
 },
 {
@@ -53768,7 +53768,7 @@
 {
 "input": "diffs",
 "inputType": "wholewords",
-"output": "diffs*",
+"output": "diffs",
 "caseSensitive": false
 },
 {
@@ -53834,7 +53834,7 @@
 {
 "input": "nvidia",
 "inputType": "wholewords",
-"output": "nvidia*",
+"output": "nvidia",
 "caseSensitive": false
 },
 {
@@ -53882,19 +53882,19 @@
 {
 "input": "motherboard",
 "inputType": "wholewords",
-"output": "motherboard*",
+"output": "motherboard",
 "caseSensitive": false
 },
 {
 "input": "runtime",
 "inputType": "wholewords",
-"output": "runtime*",
+"output": "runtime",
 "caseSensitive": false
 },
 {
 "input": "inbox",
 "inputType": "wholewords",
-"output": "inbox*",
+"output": "inbox",
 "caseSensitive": false
 },
 {
@@ -53906,7 +53906,7 @@
 {
 "input": "bibliographic",
 "inputType": "wholewords",
-"output": "bibliographic*",
+"output": "bibliographic",
 "caseSensitive": false
 },
 {
@@ -53924,7 +53924,7 @@
 {
 "input": "incl",
 "inputType": "wholewords",
-"output": "incl*",
+"output": "incl",
 "caseSensitive": false
 },
 {
@@ -53948,7 +53948,7 @@
 {
 "input": "hq",
 "inputType": "wholewords",
-"output": "hq*",
+"output": "hq",
 "caseSensitive": false
 },
 {
@@ -53966,7 +53966,7 @@
 {
 "input": "propecia",
 "inputType": "wholewords",
-"output": "propecia*",
+"output": "propecia",
 "caseSensitive": false
 },
 {
@@ -54068,7 +54068,7 @@
 {
 "input": "wt",
 "inputType": "wholewords",
-"output": "wt*",
+"output": "wt",
 "caseSensitive": false
 },
 {
@@ -54164,7 +54164,7 @@
 {
 "input": "mv",
 "inputType": "wholewords",
-"output": "mv*",
+"output": "mv",
 "caseSensitive": false
 },
 {
@@ -54200,7 +54200,7 @@
 {
 "input": "carb",
 "inputType": "wholewords",
-"output": "carb*",
+"output": "carb",
 "caseSensitive": false
 },
 {
@@ -54230,7 +54230,7 @@
 {
 "input": "cio",
 "inputType": "wholewords",
-"output": "cio*",
+"output": "cio",
 "caseSensitive": false
 },
 {
@@ -54254,7 +54254,7 @@
 {
 "input": "rb",
 "inputType": "wholewords",
-"output": "rb*",
+"output": "rb",
 "caseSensitive": false
 },
 {
@@ -54272,7 +54272,7 @@
 {
 "input": "upc",
 "inputType": "wholewords",
-"output": "upc*",
+"output": "upc",
 "caseSensitive": false
 },
 {
@@ -54428,7 +54428,7 @@
 {
 "input": "kinase",
 "inputType": "wholewords",
-"output": "kinase*",
+"output": "kinase",
 "caseSensitive": false
 },
 {
@@ -54494,7 +54494,7 @@
 {
 "input": "pvc",
 "inputType": "wholewords",
-"output": "pvc*",
+"output": "pvc",
 "caseSensitive": false
 },
 {
@@ -54608,7 +54608,7 @@
 {
 "input": "feof",
 "inputType": "wholewords",
-"output": "feof*",
+"output": "feof",
 "caseSensitive": false
 },
 {
@@ -54650,7 +54650,7 @@
 {
 "input": "tions",
 "inputType": "wholewords",
-"output": "tions*",
+"output": "tions",
 "caseSensitive": false
 },
 {
@@ -54674,7 +54674,7 @@
 {
 "input": "usda",
 "inputType": "wholewords",
-"output": "usda*",
+"output": "usda",
 "caseSensitive": false
 },
 {
@@ -54728,13 +54728,13 @@
 {
 "input": "urls",
 "inputType": "wholewords",
-"output": "urls*",
+"output": "urls",
 "caseSensitive": false
 },
 {
 "input": "customise",
 "inputType": "wholewords",
-"output": "customise*",
+"output": "customise",
 "caseSensitive": false
 },
 {
@@ -54806,13 +54806,13 @@
 {
 "input": "enb",
 "inputType": "wholewords",
-"output": "enb*",
+"output": "enb",
 "caseSensitive": false
 },
 {
 "input": "gg",
 "inputType": "wholewords",
-"output": "gg*",
+"output": "gg",
 "caseSensitive": false
 },
 {
@@ -54866,7 +54866,7 @@
 {
 "input": "invision",
 "inputType": "wholewords",
-"output": "invision*",
+"output": "invision",
 "caseSensitive": false
 },
 {
@@ -54896,7 +54896,7 @@
 {
 "input": "emacs",
 "inputType": "wholewords",
-"output": "emacs*",
+"output": "emacs",
 "caseSensitive": false
 },
 {
@@ -54944,7 +54944,7 @@
 {
 "input": "wto",
 "inputType": "wholewords",
-"output": "wto*",
+"output": "wto",
 "caseSensitive": false
 },
 {
@@ -54968,7 +54968,7 @@
 {
 "input": "ww",
 "inputType": "wholewords",
-"output": "ww*",
+"output": "ww",
 "caseSensitive": false
 },
 {
@@ -55034,7 +55034,7 @@
 {
 "input": "gd",
 "inputType": "wholewords",
-"output": "gd*",
+"output": "gd",
 "caseSensitive": false
 },
 {
@@ -55274,7 +55274,7 @@
 {
 "input": "basename",
 "inputType": "wholewords",
-"output": "basename*",
+"output": "basename",
 "caseSensitive": false
 },
 {
@@ -55322,7 +55322,7 @@
 {
 "input": "bw",
 "inputType": "wholewords",
-"output": "bw*",
+"output": "bw",
 "caseSensitive": false
 },
 {
@@ -55364,7 +55364,7 @@
 {
 "input": "mj",
 "inputType": "wholewords",
-"output": "mj*",
+"output": "mj",
 "caseSensitive": false
 },
 {
@@ -55442,7 +55442,7 @@
 {
 "input": "cingular",
 "inputType": "wholewords",
-"output": "cingular*",
+"output": "cingular",
 "caseSensitive": false
 },
 {
@@ -55550,7 +55550,7 @@
 {
 "input": "lf",
 "inputType": "wholewords",
-"output": "lf*",
+"output": "lf",
 "caseSensitive": false
 },
 {
@@ -55586,7 +55586,7 @@
 {
 "input": "bufing",
 "inputType": "wholewords",
-"output": "bufing*",
+"output": "bufing",
 "caseSensitive": false
 },
 {
@@ -55760,7 +55760,7 @@
 {
 "input": "mpegs",
 "inputType": "wholewords",
-"output": "mpegs*",
+"output": "mpegs",
 "caseSensitive": false
 },
 {
@@ -55838,7 +55838,7 @@
 {
 "input": "wc",
 "inputType": "wholewords",
-"output": "wc*",
+"output": "wc",
 "caseSensitive": false
 },
 {
@@ -55850,7 +55850,7 @@
 {
 "input": "sbjct",
 "inputType": "wholewords",
-"output": "sbjct*",
+"output": "sbjct",
 "caseSensitive": false
 },
 {
@@ -56054,7 +56054,7 @@
 {
 "input": "hk",
 "inputType": "wholewords",
-"output": "hk*",
+"output": "hk",
 "caseSensitive": false
 },
 {
@@ -56090,7 +56090,7 @@
 {
 "input": "powerseller",
 "inputType": "wholewords",
-"output": "powerseller*",
+"output": "powerseller",
 "caseSensitive": false
 },
 {
@@ -56198,7 +56198,7 @@
 {
 "input": "cj",
 "inputType": "wholewords",
-"output": "cj*",
+"output": "cj",
 "caseSensitive": false
 },
 {
@@ -56342,7 +56342,7 @@
 {
 "input": "namespace",
 "inputType": "wholewords",
-"output": "namespace*",
+"output": "namespace",
 "caseSensitive": false
 },
 {
@@ -56414,7 +56414,7 @@
 {
 "input": "changelog",
 "inputType": "wholewords",
-"output": "changelog*",
+"output": "changelog",
 "caseSensitive": false
 },
 {
@@ -56534,7 +56534,7 @@
 {
 "input": "qc",
 "inputType": "wholewords",
-"output": "qc*",
+"output": "qc",
 "caseSensitive": false
 },
 {
@@ -56588,7 +56588,7 @@
 {
 "input": "pgp",
 "inputType": "wholewords",
-"output": "pgp*",
+"output": "pgp",
 "caseSensitive": false
 },
 {
@@ -56606,7 +56606,7 @@
 {
 "input": "frontpage",
 "inputType": "wholewords",
-"output": "frontpage*",
+"output": "frontpage",
 "caseSensitive": false
 },
 {
@@ -56630,7 +56630,7 @@
 {
 "input": "advert",
 "inputType": "wholewords",
-"output": "advert*",
+"output": "advert",
 "caseSensitive": false
 },
 {
@@ -56678,7 +56678,7 @@
 {
 "input": "tf",
 "inputType": "wholewords",
-"output": "tf*",
+"output": "tf",
 "caseSensitive": false
 },
 {
@@ -56696,7 +56696,7 @@
 {
 "input": "pj",
 "inputType": "wholewords",
-"output": "pj*",
+"output": "pj",
 "caseSensitive": false
 },
 {
@@ -56744,7 +56744,7 @@
 {
 "input": "cw",
 "inputType": "wholewords",
-"output": "cw*",
+"output": "cw",
 "caseSensitive": false
 },
 {
@@ -56762,7 +56762,7 @@
 {
 "input": "wr",
 "inputType": "wholewords",
-"output": "wr*",
+"output": "wr",
 "caseSensitive": false
 },
 {
@@ -56804,7 +56804,7 @@
 {
 "input": "fioricet",
 "inputType": "wholewords",
-"output": "fioricet*",
+"output": "fioricet",
 "caseSensitive": false
 },
 {
@@ -56822,7 +56822,7 @@
 {
 "input": "rg",
 "inputType": "wholewords",
-"output": "rg*",
+"output": "rg",
 "caseSensitive": false
 },
 {
@@ -56846,7 +56846,7 @@
 {
 "input": "bl",
 "inputType": "wholewords",
-"output": "bl*",
+"output": "bl",
 "caseSensitive": false
 },
 {
@@ -56882,7 +56882,7 @@
 {
 "input": "vc",
 "inputType": "wholewords",
-"output": "vc*",
+"output": "vc",
 "caseSensitive": false
 },
 {
@@ -56912,7 +56912,7 @@
 {
 "input": "wx",
 "inputType": "wholewords",
-"output": "wx*",
+"output": "wx",
 "caseSensitive": false
 },
 {
@@ -57026,7 +57026,7 @@
 {
 "input": "paxil",
 "inputType": "wholewords",
-"output": "paxil*",
+"output": "paxil",
 "caseSensitive": false
 },
 {
@@ -57062,7 +57062,7 @@
 {
 "input": "ntsc",
 "inputType": "wholewords",
-"output": "ntsc*",
+"output": "ntsc",
 "caseSensitive": false
 },
 {
@@ -57086,7 +57086,7 @@
 {
 "input": "apnic",
 "inputType": "wholewords",
-"output": "apnic*",
+"output": "apnic",
 "caseSensitive": false
 },
 {
@@ -57152,7 +57152,7 @@
 {
 "input": "usps",
 "inputType": "wholewords",
-"output": "usps*",
+"output": "usps",
 "caseSensitive": false
 },
 {
@@ -57200,7 +57200,7 @@
 {
 "input": "bg",
 "inputType": "wholewords",
-"output": "bg*",
+"output": "bg",
 "caseSensitive": false
 },
 {
@@ -57230,7 +57230,7 @@
 {
 "input": "intranet",
 "inputType": "wholewords",
-"output": "intranet*",
+"output": "intranet",
 "caseSensitive": false
 },
 {
@@ -57242,7 +57242,7 @@
 {
 "input": "seq",
 "inputType": "wholewords",
-"output": "seq*",
+"output": "seq",
 "caseSensitive": false
 },
 {
@@ -57266,7 +57266,7 @@
 {
 "input": "conf",
 "inputType": "wholewords",
-"output": "conf*",
+"output": "conf",
 "caseSensitive": false
 },
 {
@@ -57308,7 +57308,7 @@
 {
 "input": "wma",
 "inputType": "wholewords",
-"output": "wma*",
+"output": "wma",
 "caseSensitive": false
 },
 {
@@ -57332,7 +57332,7 @@
 {
 "input": "cir",
 "inputType": "wholewords",
-"output": "cir*",
+"output": "cir",
 "caseSensitive": false
 },
 {
@@ -57344,7 +57344,7 @@
 {
 "input": "looksmart",
 "inputType": "wholewords",
-"output": "looksmart*",
+"output": "looksmart",
 "caseSensitive": false
 },
 {
@@ -57446,7 +57446,7 @@
 {
 "input": "acm",
 "inputType": "wholewords",
-"output": "acm*",
+"output": "acm",
 "caseSensitive": false
 },
 {
@@ -57464,7 +57464,7 @@
 {
 "input": "kw",
 "inputType": "wholewords",
-"output": "kw*",
+"output": "kw",
 "caseSensitive": false
 },
 {
@@ -57518,7 +57518,7 @@
 {
 "input": "ips",
 "inputType": "wholewords",
-"output": "ips*",
+"output": "ips",
 "caseSensitive": false
 },
 {
@@ -57542,7 +57542,7 @@
 {
 "input": "dsc",
 "inputType": "wholewords",
-"output": "dsc*",
+"output": "dsc",
 "caseSensitive": false
 },
 {
@@ -57704,7 +57704,7 @@
 {
 "input": "gtk",
 "inputType": "wholewords",
-"output": "gtk*",
+"output": "gtk",
 "caseSensitive": false
 },
 {
@@ -57818,7 +57818,7 @@
 {
 "input": "voyuer",
 "inputType": "wholewords",
-"output": "voyuer*",
+"output": "voyuer",
 "caseSensitive": false
 },
 {
@@ -57854,7 +57854,7 @@
 {
 "input": "garmin",
 "inputType": "wholewords",
-"output": "garmin*",
+"output": "garmin",
 "caseSensitive": false
 },
 {
@@ -57902,7 +57902,7 @@
 {
 "input": "mrna",
 "inputType": "wholewords",
-"output": "mrna*",
+"output": "mrna",
 "caseSensitive": false
 },
 {
@@ -57914,7 +57914,7 @@
 {
 "input": "toolkit",
 "inputType": "wholewords",
-"output": "toolkit*",
+"output": "toolkit",
 "caseSensitive": false
 },
 {
@@ -58010,7 +58010,7 @@
 {
 "input": "dts",
 "inputType": "wholewords",
-"output": "dts*",
+"output": "dts",
 "caseSensitive": false
 },
 {
@@ -58028,7 +58028,7 @@
 {
 "input": "qt",
 "inputType": "wholewords",
-"output": "qt*",
+"output": "qt",
 "caseSensitive": false
 },
 {
@@ -58112,7 +58112,7 @@
 {
 "input": "cdna",
 "inputType": "wholewords",
-"output": "cdna*",
+"output": "cdna",
 "caseSensitive": false
 },
 {
@@ -58232,7 +58232,7 @@
 {
 "input": "soa",
 "inputType": "wholewords",
-"output": "soa*",
+"output": "soa",
 "caseSensitive": false
 },
 {
@@ -58250,7 +58250,7 @@
 {
 "input": "smtp",
 "inputType": "wholewords",
-"output": "smtp*",
+"output": "smtp",
 "caseSensitive": false
 },
 {
@@ -58394,13 +58394,13 @@
 {
 "input": "beastality",
 "inputType": "wholewords",
-"output": "beastality*",
+"output": "beastality",
 "caseSensitive": false
 },
 {
 "input": "webcast",
 "inputType": "wholewords",
-"output": "webcast*",
+"output": "webcast",
 "caseSensitive": false
 },
 {
@@ -58454,7 +58454,7 @@
 {
 "input": "firmware",
 "inputType": "wholewords",
-"output": "firmware*",
+"output": "firmware",
 "caseSensitive": false
 },
 {
@@ -58478,7 +58478,7 @@
 {
 "input": "lm",
 "inputType": "wholewords",
-"output": "lm*",
+"output": "lm",
 "caseSensitive": false
 },
 {
@@ -58538,7 +58538,7 @@
 {
 "input": "bool",
 "inputType": "wholewords",
-"output": "bool*",
+"output": "bool",
 "caseSensitive": false
 },
 {
@@ -58688,7 +58688,7 @@
 {
 "input": "bbs",
 "inputType": "wholewords",
-"output": "bbs*",
+"output": "bbs",
 "caseSensitive": false
 },
 {
@@ -58700,7 +58700,7 @@
 {
 "input": "ind",
 "inputType": "wholewords",
-"output": "ind*",
+"output": "ind",
 "caseSensitive": false
 },
 {
@@ -58772,7 +58772,7 @@
 {
 "input": "adware",
 "inputType": "wholewords",
-"output": "adware*",
+"output": "adware",
 "caseSensitive": false
 },
 {
@@ -58784,7 +58784,7 @@
 {
 "input": "intl",
 "inputType": "wholewords",
-"output": "intl*",
+"output": "intl",
 "caseSensitive": false
 },
 {
@@ -58844,7 +58844,7 @@
 {
 "input": "ultram",
 "inputType": "wholewords",
-"output": "ultram*",
+"output": "ultram",
 "caseSensitive": false
 },
 {
@@ -58922,7 +58922,7 @@
 {
 "input": "cz",
 "inputType": "wholewords",
-"output": "cz*",
+"output": "cz",
 "caseSensitive": false
 },
 {
@@ -59024,7 +59024,7 @@
 {
 "input": "hl",
 "inputType": "wholewords",
-"output": "hl*",
+"output": "hl",
 "caseSensitive": false
 },
 {
@@ -59096,7 +59096,7 @@
 {
 "input": "ob",
 "inputType": "wholewords",
-"output": "ob*",
+"output": "ob",
 "caseSensitive": false
 },
 {
@@ -59132,7 +59132,7 @@
 {
 "input": "telecharger",
 "inputType": "wholewords",
-"output": "telecharger*",
+"output": "telecharger",
 "caseSensitive": false
 },
 {
@@ -59216,7 +59216,7 @@
 {
 "input": "gzip",
 "inputType": "wholewords",
-"output": "gzip*",
+"output": "gzip",
 "caseSensitive": false
 },
 {
@@ -59264,7 +59264,7 @@
 {
 "input": "ctrl",
 "inputType": "wholewords",
-"output": "ctrl*",
+"output": "ctrl",
 "caseSensitive": false
 },
 {
@@ -59318,7 +59318,7 @@
 {
 "input": "lightbox",
 "inputType": "wholewords",
-"output": "lightbox*",
+"output": "lightbox",
 "caseSensitive": false
 },
 {
@@ -59366,7 +59366,7 @@
 {
 "input": "mediawiki",
 "inputType": "wholewords",
-"output": "mediawiki*",
+"output": "mediawiki",
 "caseSensitive": false
 },
 {
