@@ -3,9 +3,10 @@
 
 2018.05 - mitchellpkt@protonmail.com
 
-Immersion application demo in GitHub root: `Immersion_Demo_NPR_Article.png`
-
-
+## Demonstration
+Translation of https://www.npr.org/2016/03/13/469852983/seeking-adventure-and-gold-crack-this-poem-and-head-outdoors
+![Demo Article](./Immersion_demo_NPR_article.png)
+ 
 ## Quick translation how-to:
 Video instructions: https://www.youtube.com/watch?v=T2IoYQgDoes
 
